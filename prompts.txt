@@ -1,0 +1,35 @@
+# Contexto político: Se dió el transcript de los videos de RPP, esto para generar un contexto a dar al prompt (utlicé 'Research' de GPT)
+"""
+Dame un análisis extenso de lo que encuentres en el siguiente documento:
+- Quiero que tomes un perfil analítico
+- Quiero que seas lo más objetivo posible
+- Quiero que consideres la historia de los últimos 50 años de la historia política de Perú para tener una visión completa de los puntos que se tocan
+- Imagina que este reporte se entregará a la dirección de un organismo internacional que quiere saber sobre el contexto que se habla.
+"""
+
+# Perfilamiento político de los candidatos: También parte del contexto general
+"""
+Dame un perfilamiento de 1000 palabras de cada uno de los siguientes candidatos para las elecciones peruanas. Trata de ser lo más objetivo posible:
+"""
+'Martín Vizcarra', 'Keiko Fujimori', 'No precisa', 'Blanco/Nulo',
+       'Carlos Álvarez', 'Rafael López Aliaga', 'Hernando De Soto',
+       'Alfonso López Chau', 'Antauro Humala', 'Philip Butters',
+       'Verónika Mendoza', 'César Acuña', 'Fernando Olivera'
+"""
+
+Considera la siguiente estructura:
+- Partido político para las elecciones de 2026
+- Experiencia
+- Tipo de personalidad como figura pública
+- Ideología política
+- Posible tipo de relación que tendría con Estados Unidos
+- Posible tipo de relación que tendría con China
+- Posible tipo de relación que tendría con Latinoamerica
+- Posibles políticas públicas respecto medio ambiente
+- Posibles políticas públicas respecto economía
+- Posibles políticas públicas respecto política fiscal
+- Posibles políticas públicas respecto salud
+- Posibles políticas públicas respecto educación
+- Posibles políticas públicas respecto política interna
+- Posibles políticas públicas respecto política exterior
+"""

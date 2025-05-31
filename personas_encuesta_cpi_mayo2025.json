@@ -1,0 +1,8002 @@
+[
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Hernando De Soto",
+    "opinion_gobierno": "No precisa"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Alfonso López Chau",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Antauro Humala",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Verónika Mendoza",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Fernando Olivera",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Otros",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Aprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Carlos Álvarez",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "César Acuña",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Keiko Fujimori",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "No precisa",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Blanco/Nulo",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "25-39",
+    "zona": "rural",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Philip Butters",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "18-24",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "40-70",
+    "zona": "rural",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "H",
+    "edad": "25-39",
+    "zona": "urbano",
+    "region": "Lima - Callao",
+    "preferencia_presidencial": "Rafael López Aliaga",
+    "opinion_gobierno": "Desaprueba"
+  },
+  {
+    "sexo": "M",
+    "edad": "40-70",
+    "zona": "urbano",
+    "region": "Interior del País",
+    "preferencia_presidencial": "Martín Vizcarra",
+    "opinion_gobierno": "Desaprueba"
+  }
+]
