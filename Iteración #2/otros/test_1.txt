@@ -1,0 +1,347 @@
+{
+  "tabla": "encuesta_peru_responde_2025",
+  "descripcion": "Cada fila representa un encuestado. Cada columna representa una variable (pregunta o metadato).",
+  "campos": [
+    {
+      "bloque": "Bloque A  Contexto y Economía personal",
+      "variables": [
+        {
+          "nombre": "Cuál es tu situación laboral actual",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Trabajo a tiempo completo",
+            "Trabajo a medio tiempo o independiente",
+            "Busco trabajo",
+            "Estudio",
+            "No trabajo ni estudio"
+          ]
+        },
+        {
+          "nombre": "A qué dedicas principalmente tus ingresos hoy",
+          "tipo": "String",
+          "descripcion": "RM",
+          "opciones": [
+            "Gastos del hogar y alimentación",
+            "Pago de deudas",
+            "Educación o salud",
+            "Ahorro o inversión",
+            "Compras personales o recreación"
+          ]
+        },
+        {
+          "nombre": "Cuál es tu prioridad económica hoy",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Ahorrar",
+            "Pagar deudas",
+            "Emprender",
+            "Sobrevivir el mes",
+            "Comprar algo grande",
+            "Otro: _______"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        },
+        {
+          "nombre": "Cuál de estas frases se parece más a cómo manejas tu dinero",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Primero gasto, después veo",
+            "Siempre dejo algo para emergencias",
+            "No gasto si no es necesario",
+            "Me doy gustos aunque no alcance"
+          ]
+        },
+        {
+          "nombre": "Tienes pensado invertir en algún negocio o emprendimiento personal en los próximos meses",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Sí, ya estoy en proceso de invertir",
+            "Sí, lo estoy considerando seriamente",
+            "Tal vez, pero aún no lo tengo claro",
+            "No, no tengo pensado hacerlo"
+          ]
+        }
+      ]
+    },
+    {
+      "bloque": "Bloque B  Consumo y decision de compra",
+      "variables": [
+        {
+          "nombre": "En general, cómo describirías tu experiencia como cliente en el Perú hoy",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Muy buena",
+            "Buena",
+            "Regular",
+            "Mala",
+            "Muy mala",
+            "Cuando compras algo, ¿qué pesa más en tu decision para comprar? RM",
+            "El precio",
+            "Las opiniones de otros",
+            "La marca",
+            "Lo que me hace sentir esa compra (satisfacción, realización, alivio, etc )",
+            "Lo que dicen en redes",
+            "Otro: _______"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        },
+        {
+          "nombre": "Qué tipo de publicidad recuerdas más",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "La que emociona",
+            "La que da risa",
+            "La que indigna",
+            "La que explica bien",
+            "No recuerdo ninguna"
+          ]
+        },
+        {
+          "nombre": "Qué tanto te afecta una mala atención como cliente",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Usar escala (0 = nada / 10 = me hace dejar de comprar): ___",
+            "En lo que va del año 2025, ¿qué marcas, empresas o entidades te han hecho sentir realmente bien como cliente? ___________________ RA"
+          ]
+        }
+      ]
+    },
+    {
+      "bloque": "Bloque C  Percepción del Perú y política",
+      "variables": [
+        {
+          "nombre": "Cuál crees que es el principal problema del Perú en este momento",
+          "tipo": "String",
+          "descripcion": "RM",
+          "opciones": [
+            "Corrupción",
+            "Inseguridad",
+            "Desempleo",
+            "Educación",
+            "Economía",
+            "Otro: _______"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        },
+        {
+          "nombre": "A qué le tienes más fe como solución para el país",
+          "tipo": "String",
+          "descripcion": "RM",
+          "opciones": [
+            "La educación",
+            "La iniciativa privada",
+            "La religión",
+            "El ejército",
+            "El pueblo organizado",
+            "Ninguna"
+          ]
+        },
+        {
+          "nombre": "Qué tipo de liderazgo necesita hoy tu región",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Mano dura",
+            "Técnica",
+            "Popular (apoyado por la mayoría)",
+            "Cercano a la gente",
+            "No necesita líderes, necesita orden",
+            "Otro: _______"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        },
+        {
+          "nombre": "Qué tipo de líder genera más confianza en ti",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "El que impone respeto",
+            "El que habla con claridad",
+            "El que tiene experiencia",
+            "El que representa algo nuevo",
+            "Ninguno"
+          ]
+        },
+        {
+          "nombre": "A quién escuchas más cuando tomas una decisión política",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "A mí mismo",
+            "A mi familia",
+            "A mis amigos",
+            "A las redes",
+            "A algún líder u opinión pública"
+          ]
+        },
+        {
+          "nombre": "Y en cuál de estos medios confías más para informarte sobre política",
+          "tipo": "String",
+          "descripcion": "RM",
+          "opciones": [
+            "Redes sociales (Facebook, TikTok, etc.)",
+            "Medios tradicionales (TV, radio, prensa escrita)",
+            "Conversaciones con familiars y amigos",
+            "Plataformas de video o podcast",
+            "Otro (especificar): __________"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        },
+        {
+          "nombre": "Qué formato te haría prestarle más atención a un candidato político",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Videos cortos tipo TikTok o reels",
+            "Podcast o entrevistas largas",
+            "Conversación con jóvenes reales",
+            "Testimonios de ciudadanos comunes",
+            "Gráficos o datos fáciles de entender",
+            "Ninguno, no me interesa la política",
+            "Otro (especificar): ___________"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        },
+        {
+          "nombre": "Qué frase representa mejor tu visión del país",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "“El Perú necesita mano dura”",
+            "“Todo puede mejorar si se gestiona bien”",
+            "“Mientras no roben, todo bien”",
+            "“Ya no creo en los políticos”",
+            "“El Perú es más grande que sus problemas”"
+          ]
+        }
+      ]
+    },
+    {
+      "bloque": "Bloque D  Peruanidad y Sentido Identitario",
+      "variables": [
+        {
+          "nombre": "Con cuál de estas frases te identificas más",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "“A pesar de todo, el Perú vale la pena”",
+            "“Aquí no cambia nada”",
+            "“Solo queda pensar en uno mismo”",
+            "“El Perú está lleno de oportunidades”"
+          ]
+        },
+        {
+          "nombre": "Estarías de acuerdo en volverla el nuevo himno nacional reemplazando al actual de “Somos libres…”",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": []
+        },
+        {
+          "nombre": "Qué imagen representa mejor al Perú hoy",
+          "tipo": "String",
+          "descripcion": "RM",
+          "opciones": [
+            "La bandera",
+            "Machu Picchu",
+            "La informalidad",
+            "Las protestas",
+            "La comida",
+            "La selección de fútbol",
+            "Otro: _______"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        }
+      ]
+    },
+    {
+      "bloque": "Bloque E  Contexto",
+      "variables": [
+        {
+          "nombre": "Cuál de estos valores personales te representa más",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Orden",
+            "Justicia",
+            "Libertad",
+            "Progreso",
+            "Respeto",
+            "Otro: _______"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        },
+        {
+          "nombre": "Cómo tomas decisiones importantes? p.e. realizar una compra para ti o tu casa, decidirse por estudiar, un viaje",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Según mis emociones",
+            "Según los datos que tengo",
+            "Según lo que otros recomiendan",
+            "No tengo un patrón claro"
+          ]
+        },
+        {
+          "nombre": "Estás de acuerdo con que una IA pueda simular tus decisiones como ciudadano o consumidor",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Totalmente de acuerdo",
+            "Algo de acuerdo",
+            "En desacuerdo",
+            "Totalmente en desacuerdo",
+            "No lo entiendo bien"
+          ]
+        },
+        {
+          "nombre": "Qué tanta confianza te generan las encuestas que ves en TV o redes sociales",
+          "tipo": "String",
+          "descripcion": "RU",
+          "opciones": [
+            "Mucha confianza: creo que reflejan bien la realidad",
+            "Algo de confianza: pueden ser útiles, pero hay que ver quién las hace",
+            "Poca confianza: suelen estar manipuladas o no representan a todos",
+            "Ninguna confianza: no creo en lo que muestran",
+            "No tengo una opinión clara al respect"
+          ]
+        },
+        {
+          "nombre": "Cuáles son los medios/canales/personalidades con las que se informa de las noticias nacionales",
+          "tipo": "String",
+          "descripcion": "RM",
+          "opciones": [
+            "Canal N o América TV (noticieros tradicionales)",
+            "RPP (radio o medios del grupo)",
+            "Willax TV",
+            "PBO (Phillip Butters)",
+            "Latina Noticias",
+            "ATV Noticias",
+            "Cuarto Poder, RPP, redes",
+            "Rosa María Palacios",
+            "Marco Sifuentes (La Encerrona)",
+            "Pitucos Marrones",
+            "Roro Network",
+            "Paolo Benza (La Contra)",
+            "Wayka",
+            "La Mula",
+            "TikTok (cuentas de noticias o política)",
+            "Twitter/X (actualidad, política, opinión)",
+            "YouTube (entrevistas, programas, canales independientes)",
+            "WhatsApp (reenvíos o cadenas)",
+            "Familiares o amigos",
+            "No sigo ninguna fuente en particular",
+            "Otros (especificar): ___________"
+          ],
+          "nota": "Si se selecciona 'Otro', se debe de contestar algo que haga sentido y sea coherente con la pregunta."
+        }
+      ]
+    }
+  ]
+}
