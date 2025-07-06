@@ -55,10 +55,8 @@ Estamos armando los primeros pilotos comerciales. Sé parte del grupo que valida
 
 ## 🛠️ Próximos pasos técnicos
 
-1. 🔄 Migrar el agente `test_panel.py` al framework **LangGraph** para mejorar control de flujo y modularidad.  
-2. 📂 Hacer que el agente `flujo.py` se **contextualice dinámicamente** usando las carpetas `contexto/` y `prompt/`.  
-3. ☁️ Subir toda la solución a un **contenedor en AWS**, separando el contexto en **buckets de S3**.  
-4. 🛠️ Evaluar e implementar **AWS CDK (Cloud Development Kit)** para infraestructura como código del despliegue completo.
+1. ☁️ Subir toda la solución a un **contenedor en AWS**, separando el contexto en **buckets de S3**.  
+2. 🛠️ Evaluar e implementar **AWS CDK (Cloud Development Kit)** para infraestructura como código del despliegue completo.
 
 ---
 

@@ -1,0 +1,78 @@
+{
+  "tabla": "encuesta_peru_responde_2025",
+  "descripcion": "Cada fila representa un encuestado. Cada columna representa una variable (pregunta o metadato).",
+  "campos": [
+    {
+      "bloque": "Metadatos",
+      "variables": [
+        { "nombre": "ID_Encuestado", "tipo": "String", "descripcion": "Identificador único del encuestado" },
+        { "nombre": "Edad", "tipo": "Integer", "descripcion": "Edad en años" },
+        { "nombre": "Genero", "tipo": "String", "descripcion": "Género autoidentificado (si está disponible)" },
+        { "nombre": "Region", "tipo": "String", "descripcion": "Región del Perú" },
+        { "nombre": "Ciudad", "tipo": "String", "descripcion": "Ciudad o distrito (si aplica)" },
+        { "nombre": "GeneroGeneracional", "tipo": "String", "descripcion": "Generación derivada de la edad (Z, Millennial, etc.)" }
+      ]
+    },
+    {
+      "bloque": "Bloque A – Contexto y Economía Personal",
+      "variables": [
+        { "nombre": "A1_SituacionLaboral", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "A2_CambioIngreso", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "A3_DestinoIngresos", "tipo": "String", "descripcion": "RM – lista separada por comas" },
+        { "nombre": "A4_PrioridadEconomica", "tipo": "String", "descripcion": "RU (opcional campo abierto si 'Otro')" },
+        { "nombre": "A5_ManejoDinero", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "A6_InversionFutura", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "A7_MigracionConsiderada", "tipo": "String", "descripcion": "RU" }
+      ]
+    },
+    {
+      "bloque": "Bloque B – Consumo y Decisión de Compra",
+      "variables": [
+        { "nombre": "B8_ExperienciaCliente", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "B9_FactoresCompra", "tipo": "String", "descripcion": "RM – lista separada por comas" },
+        { "nombre": "B10_PublicidadRecuerda", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "B11_ImpactoMalaAtencion", "tipo": "Integer", "descripcion": "Escala 0 a 10" },
+        { "nombre": "B12_MarcasBuenaExperiencia", "tipo": "Text", "descripcion": "RA" },
+        { "nombre": "B13_MarcasMalaExperiencia", "tipo": "Text", "descripcion": "RA" }
+      ]
+    },
+    {
+      "bloque": "Bloque C – Perú y Política",
+      "variables": [
+        { "nombre": "C14_PrincipalProblema", "tipo": "String", "descripcion": "RM" },
+        { "nombre": "C15_SolucionFe", "tipo": "String", "descripcion": "RM" },
+        { "nombre": "C16_TipoLiderRegion", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "C17_CaracteristicasPresidente", "tipo": "String", "descripcion": "RM – lista separada por comas" },
+        { "nombre": "C18_TipoLiderConfianza", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "C19_InfluenciaDecisionPolitica", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "C20_MedioConfianzaPolitica", "tipo": "String", "descripcion": "RM – lista separada por comas" },
+        { "nombre": "C21_FormatoAtencionCandidato", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "C22_FraseVisionPais", "tipo": "String", "descripcion": "RU" }
+      ]
+    },
+    {
+      "bloque": "Bloque D – Peruanidad e Identidad",
+      "variables": [
+        { "nombre": "D23_FraseIdentitaria", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "D24_ReaccionContigoPeru", "tipo": "String", "descripcion": "RU (opcional abierto si 'Otro')" },
+        { "nombre": "D25_CambioHimno", "tipo": "Boolean", "descripcion": "RU (Sí/No)" },
+        { "nombre": "D26_ImagenDelPeru", "tipo": "String", "descripcion": "RM – lista separada por comas" }
+      ]
+    },
+    {
+      "bloque": "Bloque E – Contexto y Valores",
+      "variables": [
+        { "nombre": "E27_ValorPersonal", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "E28_FormaDecisionImportante", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "E29_AcuerdoConIA", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "E30_ConfianzaEncuestas", "tipo": "String", "descripcion": "RU" },
+        { "nombre": "E31_FuentesInformacion", "tipo": "String", "descripcion": "RM – lista separada por comas" }
+      ]
+    }
+  ],
+  "notas_tecnicas": {
+    "RM": "Respuesta múltiple – se sugiere lista de strings separadas por comas. Puede desnormalizarse en tabla secundaria para análisis cruzado.",
+    "RA": "Respuesta abierta – se almacena como texto libre.",
+    "Otro": "Se puede agregar un campo adicional *_OtroTexto para capturar especificaciones si la opción 'Otro' fue seleccionada."
+  }
+}

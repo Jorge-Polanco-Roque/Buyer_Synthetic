@@ -1,0 +1,13 @@
+Dado el siguiente contexto:
+{context}
+
+Y los siguientes datos:
+{datos}
+
+Devuelve únicamente una línea que contenga:
+* nombre
+* valor1
+* valor2
+* Chiste personalizado
+
+Esto separados por espacios, en ese orden.
