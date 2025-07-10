@@ -1,0 +1,569 @@
+{
+  "summary": {
+    "total_responses": 10,
+    "response_date": "2025-07-09T19:47:30.405958",
+    "sample_composition": {
+      "nse_distribution": {
+        "C": 4,
+        "E": 2,
+        "D": 2,
+        "B": 1,
+        "A": 1
+      },
+      "region_distribution": {
+        "Lima": 10
+      },
+      "gender_distribution": {
+        "F": 5,
+        "M": 5
+      },
+      "age_stats": {
+        "mean": 28.7,
+        "median": 28.0,
+        "std": 2.6267851073127395
+      }
+    },
+    "data_quality": {
+      "completion_rate": 1.0,
+      "average_confidence": 0.7835
+    }
+  },
+  "demographic_analysis": {
+    "by_nse": {
+      "distribution": {
+        "C": 4,
+        "E": 2,
+        "D": 2,
+        "B": 1,
+        "A": 1
+      },
+      "percentage": {
+        "C": 0.4,
+        "E": 0.2,
+        "D": 0.2,
+        "B": 0.1,
+        "A": 0.1
+      },
+      "intent_voto_respuesta_by_nse": {
+        "Rafael López Aliaga": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 0,
+          "E": 1
+        },
+        "Verónika Mendoza": {
+          "A": 0,
+          "B": 1,
+          "C": 3,
+          "D": 2,
+          "E": 1
+        },
+        "Voto en blanco": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 0,
+          "E": 0
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_nse": {
+        "3": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 0,
+          "E": 2
+        },
+        "4": {
+          "A": 1,
+          "B": 0,
+          "C": 2,
+          "D": 1,
+          "E": 0
+        },
+        "6": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 1,
+          "E": 0
+        }
+      },
+      "principal_problema_respuesta_by_nse": {
+        "Economía": {
+          "A": 0,
+          "B": 1,
+          "C": 2,
+          "D": 1,
+          "E": 1
+        },
+        "Salud": {
+          "A": 1,
+          "B": 0,
+          "C": 2,
+          "D": 1,
+          "E": 1
+        }
+      }
+    },
+    "by_region": {
+      "distribution": {
+        "Lima": 10
+      },
+      "percentage": {
+        "Lima": 1.0
+      },
+      "intent_voto_respuesta_by_region": {
+        "Rafael López Aliaga": {
+          "Lima": 2
+        },
+        "Verónika Mendoza": {
+          "Lima": 7
+        },
+        "Voto en blanco": {
+          "Lima": 1
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_region": {
+        "3": {
+          "Lima": 3
+        },
+        "4": {
+          "Lima": 4
+        },
+        "6": {
+          "Lima": 3
+        }
+      },
+      "principal_problema_respuesta_by_region": {
+        "Economía": {
+          "Lima": 5
+        },
+        "Salud": {
+          "Lima": 5
+        }
+      }
+    },
+    "by_age_group": {
+      "distribution": {
+        "18-29": 6,
+        "30-44": 4,
+        "45-59": 0,
+        "60+": 0
+      },
+      "percentage": {
+        "18-29": 0.6,
+        "30-44": 0.4,
+        "45-59": 0.0,
+        "60+": 0.0
+      },
+      "intent_voto_respuesta_by_grupo_edad": {
+        "Rafael López Aliaga": {
+          "18-29": 2,
+          "30-44": 0
+        },
+        "Verónika Mendoza": {
+          "18-29": 3,
+          "30-44": 4
+        },
+        "Voto en blanco": {
+          "18-29": 1,
+          "30-44": 0
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_grupo_edad": {
+        "3": {
+          "18-29": 1,
+          "30-44": 2
+        },
+        "4": {
+          "18-29": 2,
+          "30-44": 2
+        },
+        "6": {
+          "18-29": 3,
+          "30-44": 0
+        }
+      },
+      "principal_problema_respuesta_by_grupo_edad": {
+        "Economía": {
+          "18-29": 5,
+          "30-44": 0
+        },
+        "Salud": {
+          "18-29": 1,
+          "30-44": 4
+        }
+      }
+    },
+    "cross_tabs": {
+      "nse_region": {
+        "Lima": {
+          "A": 1,
+          "B": 1,
+          "C": 4,
+          "D": 2,
+          "E": 2
+        }
+      },
+      "nse_edad": {
+        "18-29": {
+          "A": 1,
+          "B": 1,
+          "C": 2,
+          "D": 1,
+          "E": 1
+        },
+        "30-44": {
+          "A": 0,
+          "B": 0,
+          "C": 2,
+          "D": 1,
+          "E": 1
+        }
+      }
+    }
+  },
+  "electoral_analysis": {
+    "intencion_voto": {
+      "total_distribution": {
+        "Verónika Mendoza": 7,
+        "Rafael López Aliaga": 2,
+        "Voto en blanco": 1
+      },
+      "by_nse": {
+        "Rafael López Aliaga": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 0,
+          "E": 1
+        },
+        "Verónika Mendoza": {
+          "A": 0,
+          "B": 1,
+          "C": 3,
+          "D": 2,
+          "E": 1
+        },
+        "Voto en blanco": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 0,
+          "E": 0
+        }
+      },
+      "by_region": {
+        "Rafael López Aliaga": {
+          "Lima": 2
+        },
+        "Verónika Mendoza": {
+          "Lima": 7
+        },
+        "Voto en blanco": {
+          "Lima": 1
+        }
+      }
+    },
+    "aprobacion_gobierno": {
+      "average_score": 4.3,
+      "median_score": 4.0,
+      "std_deviation": 1.2516655570345725,
+      "distribution": {
+        "4": 4,
+        "6": 3,
+        "3": 3
+      },
+      "by_nse": {
+        "A": 4.0,
+        "B": 6.0,
+        "C": 4.25,
+        "D": 5.0,
+        "E": 3.0
+      }
+    },
+    "principales_problemas": {
+      "ranking": {
+        "Economía": 5,
+        "Salud": 5
+      },
+      "by_nse": {
+        "Economía": {
+          "A": 0,
+          "B": 1,
+          "C": 2,
+          "D": 1,
+          "E": 1
+        },
+        "Salud": {
+          "A": 1,
+          "B": 0,
+          "C": 2,
+          "D": 1,
+          "E": 1
+        }
+      },
+      "by_region": {
+        "Economía": {
+          "Lima": 5
+        },
+        "Salud": {
+          "Lima": 5
+        }
+      }
+    },
+    "confianza_institucional": {
+      "average_trust": 5.3,
+      "median_trust": 6.0,
+      "low_trust_percentage": 0.3,
+      "high_trust_percentage": 0.5
+    }
+  },
+  "statistical_tests": {
+    "voto_por_nse": {
+      "chi2_statistic": 11.964285714285712,
+      "p_value": 0.1528044941885661,
+      "degrees_of_freedom": 8,
+      "cramers_v": 0.7734431367038469,
+      "significant": false,
+      "contingency_table": {
+        "A": {
+          "Rafael López Aliaga": 0,
+          "Verónika Mendoza": 0,
+          "Voto en blanco": 1
+        },
+        "B": {
+          "Rafael López Aliaga": 0,
+          "Verónika Mendoza": 1,
+          "Voto en blanco": 0
+        },
+        "C": {
+          "Rafael López Aliaga": 1,
+          "Verónika Mendoza": 3,
+          "Voto en blanco": 0
+        },
+        "D": {
+          "Rafael López Aliaga": 0,
+          "Verónika Mendoza": 2,
+          "Voto en blanco": 0
+        },
+        "E": {
+          "Rafael López Aliaga": 1,
+          "Verónika Mendoza": 1,
+          "Voto en blanco": 0
+        }
+      }
+    },
+    "correlations": {
+      "correlation_matrix": {
+        "id": {
+          "id": 1.0,
+          "edad": 0.2584633410899052,
+          "intent_voto_confianza": -0.18446085951124327,
+          "aprobacion_gobierno_respuesta": -0.33717961446904926,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": -0.1740776559556978,
+          "confianza_instituciones_confianza": NaN
+        },
+        "edad": {
+          "id": 0.2584633410899052,
+          "edad": 1.0,
+          "intent_voto_confianza": -0.5608876430158514,
+          "aprobacion_gobierno_respuesta": -0.17235140165720086,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 0.12460991810632255,
+          "confianza_instituciones_confianza": NaN
+        },
+        "intent_voto_confianza": {
+          "id": -0.18446085951124327,
+          "edad": -0.5608876430158514,
+          "intent_voto_confianza": 1.0,
+          "aprobacion_gobierno_respuesta": 0.39094906082339154,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": -0.007967270400725621,
+          "confianza_instituciones_confianza": NaN
+        },
+        "aprobacion_gobierno_respuesta": {
+          "id": -0.33717961446904926,
+          "edad": -0.17235140165720086,
+          "intent_voto_confianza": 0.39094906082339154,
+          "aprobacion_gobierno_respuesta": 1.0,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 0.04875616385121949,
+          "confianza_instituciones_confianza": NaN
+        },
+        "aprobacion_gobierno_confianza": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": NaN,
+          "confianza_instituciones_confianza": NaN
+        },
+        "principal_problema_confianza": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": NaN,
+          "confianza_instituciones_confianza": NaN
+        },
+        "confianza_instituciones_respuesta": {
+          "id": -0.1740776559556978,
+          "edad": 0.12460991810632255,
+          "intent_voto_confianza": -0.007967270400725621,
+          "aprobacion_gobierno_respuesta": 0.04875616385121949,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 1.0,
+          "confianza_instituciones_confianza": NaN
+        },
+        "confianza_instituciones_confianza": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": NaN,
+          "confianza_instituciones_confianza": NaN
+        }
+      },
+      "p_values": {
+        "id": {
+          "id": 0.0,
+          "edad": 0.4708914521880693,
+          "intent_voto_confianza": 0.6099435327737842,
+          "aprobacion_gobierno_respuesta": 0.34070988702993915,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 0.6305360755569764,
+          "confianza_instituciones_confianza": NaN
+        },
+        "edad": {
+          "id": 0.4708914521880693,
+          "edad": 0.0,
+          "intent_voto_confianza": 0.09164704932771774,
+          "aprobacion_gobierno_respuesta": 0.6339824570462718,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 0.7316091036959675,
+          "confianza_instituciones_confianza": NaN
+        },
+        "intent_voto_confianza": {
+          "id": 0.6099435327737842,
+          "edad": 0.09164704932771774,
+          "intent_voto_confianza": 0.0,
+          "aprobacion_gobierno_respuesta": 0.26395835059373385,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 0.9825727022660073,
+          "confianza_instituciones_confianza": NaN
+        },
+        "aprobacion_gobierno_respuesta": {
+          "id": 0.34070988702993915,
+          "edad": 0.6339824570462718,
+          "intent_voto_confianza": 0.26395835059373385,
+          "aprobacion_gobierno_respuesta": 0.0,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 0.8935990644198104,
+          "confianza_instituciones_confianza": NaN
+        },
+        "aprobacion_gobierno_confianza": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "aprobacion_gobierno_confianza": 0.0,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": NaN,
+          "confianza_instituciones_confianza": NaN
+        },
+        "principal_problema_confianza": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": 0.0,
+          "confianza_instituciones_respuesta": NaN,
+          "confianza_instituciones_confianza": NaN
+        },
+        "confianza_instituciones_respuesta": {
+          "id": 0.6305360755569764,
+          "edad": 0.7316091036959675,
+          "intent_voto_confianza": 0.9825727022660073,
+          "aprobacion_gobierno_respuesta": 0.8935990644198104,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": 0.0,
+          "confianza_instituciones_confianza": NaN
+        },
+        "confianza_instituciones_confianza": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "aprobacion_gobierno_confianza": NaN,
+          "principal_problema_confianza": NaN,
+          "confianza_instituciones_respuesta": NaN,
+          "confianza_instituciones_confianza": 0.0
+        }
+      },
+      "significant_correlations": []
+    },
+    "approval_by_nse": {
+      "f_statistic": 1.361111111111111,
+      "p_value": 0.3652091900758657,
+      "significant": false,
+      "group_statistics": {
+        "count": {
+          "A": 1,
+          "B": 1,
+          "C": 4,
+          "D": 2,
+          "E": 2
+        },
+        "mean": {
+          "A": 4.0,
+          "B": 6.0,
+          "C": 4.25,
+          "D": 5.0,
+          "E": 3.0
+        },
+        "std": {
+          "A": NaN,
+          "B": NaN,
+          "C": 1.2583057392117916,
+          "D": 1.4142135623730951,
+          "E": 0.0
+        }
+      },
+      "test": "anova"
+    }
+  },
+  "insights": [
+    "Se generaron 10 respuestas sintéticas representativas",
+    "NSE C representa el 40.0% de la muestra",
+    "'Verónika Mendoza' lidera intención de voto con 7 menciones",
+    "'Economía' es el principal problema identificado",
+    "Confianza institucional promedio: 5.3/10"
+  ],
+  "visualizations": [
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/demografia_20250709_194730.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/intencion_voto_20250709_194730.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/principales_problemas_20250709_194730.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/puntuaciones_20250709_194730.png"
+  ]
+}

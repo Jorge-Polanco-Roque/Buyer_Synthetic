@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nombre": "María García",
+    "edad": 35,
+    "genero": "F",
+    "nse": "C",
+    "region": "Lima",
+    "intent_voto_respuesta": "Candidato A",
+    "aprobacion_gobierno_respuesta": 6,
+    "survey_mode": "Demo Mode"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos López",
+    "edad": 42,
+    "genero": "M",
+    "nse": "B",
+    "region": "Sierra",
+    "intent_voto_respuesta": "Candidato B",
+    "aprobacion_gobierno_respuesta": 4,
+    "survey_mode": "Demo Mode"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana Rodríguez",
+    "edad": 28,
+    "genero": "F",
+    "nse": "D",
+    "region": "Costa",
+    "intent_voto_respuesta": "Candidato C",
+    "aprobacion_gobierno_respuesta": 7,
+    "survey_mode": "GenAI Mode"
+  }
+]

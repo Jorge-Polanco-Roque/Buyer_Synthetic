@@ -1,0 +1,388 @@
+2025-07-09 19:46:15,047 - src.agents.survey_creator - INFO - Generando muestra representativa de 10 personas
+2025-07-09 19:47:06,599 - src.agents.survey_creator - INFO - Generando muestra representativa de 10 personas
+2025-07-09 19:47:06,604 - src.agents.survey_creator - INFO - Muestra generada: 10 perfiles
+2025-07-09 19:47:06,604 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 19:47:06,607 - src.agents.survey_creator - INFO -   NSE A: 10.0%
+2025-07-09 19:47:06,607 - src.agents.survey_creator - INFO -   NSE B: 10.0%
+2025-07-09 19:47:06,607 - src.agents.survey_creator - INFO -   NSE C: 40.0%
+2025-07-09 19:47:06,607 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 19:47:06,607 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 19:47:06,607 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 19:47:06,610 - src.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_194706.csv
+2025-07-09 19:47:06,615 - src.agents.results_visualizer - INFO - Analizando resultados de 10 respuestas
+2025-07-09 19:47:09,462 - src.agents.results_visualizer - INFO - Generadas 4 visualizaciones
+2025-07-09 19:47:30,389 - src.agents.survey_creator - INFO - Generando muestra representativa de 10 personas
+2025-07-09 19:47:30,395 - src.agents.survey_creator - INFO - Muestra generada: 10 perfiles
+2025-07-09 19:47:30,395 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 19:47:30,399 - src.agents.survey_creator - INFO -   NSE A: 10.0%
+2025-07-09 19:47:30,399 - src.agents.survey_creator - INFO -   NSE B: 10.0%
+2025-07-09 19:47:30,399 - src.agents.survey_creator - INFO -   NSE C: 40.0%
+2025-07-09 19:47:30,399 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 19:47:30,399 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 19:47:30,399 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 19:47:30,402 - src.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_194730.csv
+2025-07-09 19:47:30,405 - src.agents.results_visualizer - INFO - Analizando resultados de 10 respuestas
+2025-07-09 19:47:32,421 - src.agents.results_visualizer - INFO - Generadas 4 visualizaciones
+2025-07-09 19:47:32,423 - src.agents.results_visualizer - INFO - Análisis guardado en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/analisis_electoral_20250709_194732.json
+2025-07-09 19:47:32,423 - src.agents.results_visualizer - INFO - Análisis completado exitosamente
+2025-07-09 19:52:22,117 - src.agents.survey_creator - INFO - Generando muestra representativa de 200 personas
+2025-07-09 19:52:22,154 - src.agents.survey_creator - INFO - Muestra generada: 200 perfiles
+2025-07-09 19:52:22,155 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 19:52:22,160 - src.agents.survey_creator - INFO -   NSE B: 9.0%
+2025-07-09 19:52:22,161 - src.agents.survey_creator - INFO -   NSE C: 60.5%
+2025-07-09 19:52:22,161 - src.agents.survey_creator - INFO -   NSE D: 18.0%
+2025-07-09 19:52:22,161 - src.agents.survey_creator - INFO -   NSE E: 12.5%
+2025-07-09 19:52:22,162 - src.agents.survey_creator - INFO -   Lima: 55.0%
+2025-07-09 19:52:22,162 - src.agents.survey_creator - INFO -   Sierra: 23.0%
+2025-07-09 19:52:22,162 - src.agents.survey_creator - INFO -   Selva: 18.5%
+2025-07-09 19:52:22,162 - src.agents.survey_creator - INFO -   Costa: 3.5%
+2025-07-09 19:52:22,177 - src.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_195222.csv
+2025-07-09 19:54:18,113 - src.agents.survey_creator - INFO - Generando muestra representativa de 50 personas
+2025-07-09 19:54:18,121 - src.agents.survey_creator - INFO - Muestra generada: 50 perfiles
+2025-07-09 19:54:18,122 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 19:54:18,122 - src.agents.survey_creator - INFO -   NSE C: 100.0%
+2025-07-09 19:54:18,123 - src.agents.survey_creator - INFO -   Lima: 98.0%
+2025-07-09 19:54:18,123 - src.agents.survey_creator - INFO -   Sierra: 2.0%
+2025-07-09 19:54:18,129 - src.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_195418.csv
+2025-07-09 19:54:45,861 - src.agents.results_visualizer - INFO - Analizando resultados de 50 respuestas
+2025-07-09 19:54:55,199 - src.agents.results_visualizer - INFO - Analizando resultados de 50 respuestas
+2025-07-09 19:57:20,687 - src.agents.survey_creator - INFO - Generando muestra representativa de 50 personas
+2025-07-09 19:57:20,695 - src.agents.survey_creator - INFO - Muestra generada: 50 perfiles
+2025-07-09 19:57:20,696 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 19:57:20,697 - src.agents.survey_creator - INFO -   NSE C: 100.0%
+2025-07-09 19:57:20,698 - src.agents.survey_creator - INFO -   Lima: 98.0%
+2025-07-09 19:57:20,698 - src.agents.survey_creator - INFO -   Sierra: 2.0%
+2025-07-09 19:57:20,702 - src.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_195720.csv
+2025-07-09 19:57:50,545 - src.agents.results_visualizer - INFO - Analizando resultados de 50 respuestas
+2025-07-09 19:57:53,066 - src.agents.results_visualizer - INFO - Generadas 4 visualizaciones
+2025-07-09 19:57:53,067 - src.agents.results_visualizer - INFO - Análisis guardado en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/analisis_electoral_20250709_195753.json
+2025-07-09 19:57:53,068 - src.agents.results_visualizer - INFO - Análisis completado exitosamente
+2025-07-09 20:33:07,655 - src.agents.survey_creator - INFO - Generando muestra representativa de 300 personas
+2025-07-09 20:33:07,712 - src.agents.survey_creator - INFO - Muestra generada: 300 perfiles
+2025-07-09 20:33:07,712 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 20:33:07,718 - src.agents.survey_creator - INFO -   NSE B: 10.7%
+2025-07-09 20:33:07,718 - src.agents.survey_creator - INFO -   NSE C: 53.0%
+2025-07-09 20:33:07,718 - src.agents.survey_creator - INFO -   NSE D: 21.0%
+2025-07-09 20:33:07,718 - src.agents.survey_creator - INFO -   NSE E: 15.3%
+2025-07-09 20:33:07,719 - src.agents.survey_creator - INFO -   Lima: 48.7%
+2025-07-09 20:33:07,719 - src.agents.survey_creator - INFO -   Sierra: 25.0%
+2025-07-09 20:33:07,720 - src.agents.survey_creator - INFO -   Selva: 20.3%
+2025-07-09 20:33:07,720 - src.agents.survey_creator - INFO -   Costa: 6.0%
+2025-07-09 20:33:08,285 - src.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_203307.csv
+2025-07-09 20:34:40,457 - src.agents.survey_creator - INFO - Generando muestra representativa de 50 personas
+2025-07-09 20:34:40,465 - src.agents.survey_creator - INFO - Muestra generada: 50 perfiles
+2025-07-09 20:34:40,466 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 20:34:40,468 - src.agents.survey_creator - INFO -   NSE C: 100.0%
+2025-07-09 20:34:40,469 - src.agents.survey_creator - INFO -   Lima: 98.0%
+2025-07-09 20:34:40,469 - src.agents.survey_creator - INFO -   Sierra: 2.0%
+2025-07-09 20:34:40,471 - src.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_203440.csv
+2025-07-09 23:18:30,679 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:18:30,688 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:18:30,688 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:18:30,692 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:18:30,692 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:18:30,692 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:18:30,692 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:18:30,692 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:18:30,692 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:21:50,486 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:21:50,492 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:21:50,492 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:21:50,496 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:21:50,496 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:21:50,496 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:21:50,496 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:21:50,496 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:21:50,497 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:22:15,312 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:22:15,317 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:22:15,317 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:22:15,320 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:22:15,320 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:22:15,320 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:22:15,320 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:22:15,320 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:22:15,320 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:22:29,109 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:22:29,115 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:22:29,115 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:22:29,119 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:22:29,119 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:22:29,119 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:22:29,119 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:22:29,119 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:22:29,120 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:23:16,503 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:23:16,509 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:23:16,509 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:23:16,512 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:23:16,512 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:23:16,512 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:23:16,512 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:23:16,512 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:23:16,513 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:27:23,493 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:27:23,500 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:27:23,500 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:27:23,504 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:27:23,504 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:27:23,505 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:27:23,505 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:27:23,505 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:27:23,505 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:30:32,752 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:30:32,762 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:30:32,763 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:30:32,767 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:30:32,767 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:30:32,767 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:30:32,767 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:30:32,767 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:30:32,768 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:31:05,114 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:31:05,120 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:31:05,120 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:31:05,124 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:31:05,124 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:31:05,124 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:31:05,124 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:31:05,124 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:31:05,125 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:31:22,816 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:31:22,821 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:31:22,822 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:31:22,825 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:31:22,825 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:31:22,825 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:31:22,825 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:31:22,826 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:31:22,826 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:31:28,069 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para María Test
+2025-07-09 23:31:30,767 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para María Test
+2025-07-09 23:31:30,768 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para María Test
+2025-07-09 23:34:05,068 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:34:05,073 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:34:05,073 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:34:05,077 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:34:05,077 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:34:05,077 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:34:05,077 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:34:05,077 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:34:05,078 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:34:08,131 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para María Test
+2025-07-09 23:34:11,263 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para María Test
+2025-07-09 23:34:11,264 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para María Test
+2025-07-09 23:34:55,248 - src.buyer_synthetic.agents.survey_creator - INFO - Generando muestra representativa de 50 personas
+2025-07-09 23:34:55,268 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra generada: 50 perfiles
+2025-07-09 23:34:55,268 - src.buyer_synthetic.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:34:55,272 - src.buyer_synthetic.agents.survey_creator - INFO -   NSE C: 100.0%
+2025-07-09 23:34:55,273 - src.buyer_synthetic.agents.survey_creator - INFO -   Lima: 98.0%
+2025-07-09 23:34:55,274 - src.buyer_synthetic.agents.survey_creator - INFO -   Sierra: 2.0%
+2025-07-09 23:34:55,279 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_233455.csv
+2025-07-09 23:36:29,285 - src.agents.survey_creator - INFO - Generando muestra representativa de 5 personas
+2025-07-09 23:36:29,290 - src.agents.survey_creator - INFO - Muestra generada: 5 perfiles
+2025-07-09 23:36:29,290 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:36:29,295 - src.agents.survey_creator - INFO -   NSE A: 20.0%
+2025-07-09 23:36:29,295 - src.agents.survey_creator - INFO -   NSE B: 20.0%
+2025-07-09 23:36:29,295 - src.agents.survey_creator - INFO -   NSE C: 20.0%
+2025-07-09 23:36:29,295 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:36:29,295 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:36:29,295 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:36:32,048 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para María Test
+2025-07-09 23:36:33,939 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para María Test
+2025-07-09 23:36:33,940 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para María Test
+2025-07-09 23:37:10,219 - src.agents.survey_creator - INFO - Generando muestra representativa de 10 personas
+2025-07-09 23:37:10,223 - src.agents.survey_creator - INFO - Muestra generada: 10 perfiles
+2025-07-09 23:37:10,223 - src.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:37:10,226 - src.agents.survey_creator - INFO -   NSE A: 10.0%
+2025-07-09 23:37:10,226 - src.agents.survey_creator - INFO -   NSE B: 10.0%
+2025-07-09 23:37:10,226 - src.agents.survey_creator - INFO -   NSE C: 40.0%
+2025-07-09 23:37:10,226 - src.agents.survey_creator - INFO -   NSE D: 20.0%
+2025-07-09 23:37:10,226 - src.agents.survey_creator - INFO -   NSE E: 20.0%
+2025-07-09 23:37:10,227 - src.agents.survey_creator - INFO -   Lima: 100.0%
+2025-07-09 23:37:39,942 - src.buyer_synthetic.agents.survey_creator - INFO - Generando muestra representativa de 50 personas
+2025-07-09 23:37:39,953 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra generada: 50 perfiles
+2025-07-09 23:37:39,953 - src.buyer_synthetic.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:37:39,956 - src.buyer_synthetic.agents.survey_creator - INFO -   NSE C: 100.0%
+2025-07-09 23:37:39,956 - src.buyer_synthetic.agents.survey_creator - INFO -   Lima: 98.0%
+2025-07-09 23:37:39,957 - src.buyer_synthetic.agents.survey_creator - INFO -   Sierra: 2.0%
+2025-07-09 23:37:39,959 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_233739.csv
+2025-07-09 23:37:59,650 - src.buyer_synthetic.agents.results_visualizer - INFO - Analizando resultados de 50 respuestas
+2025-07-09 23:38:01,754 - src.buyer_synthetic.agents.results_visualizer - INFO - Generadas 4 visualizaciones
+2025-07-09 23:38:01,760 - src.buyer_synthetic.agents.results_visualizer - INFO - Análisis guardado en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/analisis_electoral_20250709_233801.json
+2025-07-09 23:38:01,760 - src.buyer_synthetic.agents.results_visualizer - INFO - Análisis completado exitosamente
+2025-07-09 23:39:05,919 - src.buyer_synthetic.agents.survey_creator - INFO - Generando muestra representativa de 50 personas
+2025-07-09 23:39:05,932 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra generada: 50 perfiles
+2025-07-09 23:39:05,933 - src.buyer_synthetic.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:39:05,947 - src.buyer_synthetic.agents.survey_creator - INFO -   NSE C: 100.0%
+2025-07-09 23:39:05,949 - src.buyer_synthetic.agents.survey_creator - INFO -   Lima: 98.0%
+2025-07-09 23:39:05,950 - src.buyer_synthetic.agents.survey_creator - INFO -   Sierra: 2.0%
+2025-07-09 23:39:05,956 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_233905.csv
+2025-07-09 23:39:31,858 - src.buyer_synthetic.agents.results_visualizer - INFO - Analizando resultados de 50 respuestas
+2025-07-09 23:39:33,861 - src.buyer_synthetic.agents.results_visualizer - INFO - Generadas 4 visualizaciones
+2025-07-09 23:39:33,864 - src.buyer_synthetic.agents.results_visualizer - INFO - Análisis guardado en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/analisis_electoral_20250709_233933.json
+2025-07-09 23:39:33,864 - src.buyer_synthetic.agents.results_visualizer - INFO - Análisis completado exitosamente
+2025-07-09 23:41:12,466 - src.buyer_synthetic.agents.survey_creator - INFO - Generando muestra representativa de 50 personas
+2025-07-09 23:41:12,475 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra generada: 50 perfiles
+2025-07-09 23:41:12,475 - src.buyer_synthetic.agents.survey_creator - INFO - Distribución de la muestra:
+2025-07-09 23:41:12,476 - src.buyer_synthetic.agents.survey_creator - INFO -   NSE C: 100.0%
+2025-07-09 23:41:12,476 - src.buyer_synthetic.agents.survey_creator - INFO -   Lima: 98.0%
+2025-07-09 23:41:12,476 - src.buyer_synthetic.agents.survey_creator - INFO -   Sierra: 2.0%
+2025-07-09 23:41:12,479 - src.buyer_synthetic.agents.survey_creator - INFO - Muestra guardada en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/input/muestra_representativa_20250709_234112.csv
+2025-07-09 23:41:21,141 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Sandra Sánchez
+2025-07-09 23:41:34,783 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Sandra Sánchez
+2025-07-09 23:41:34,785 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Sandra Sánchez
+2025-07-09 23:41:34,794 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Teresa Ramírez
+2025-07-09 23:41:43,572 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Teresa Ramírez
+2025-07-09 23:41:43,584 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Teresa Ramírez
+2025-07-09 23:41:43,614 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Lucía Ramírez
+2025-07-09 23:41:54,841 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Lucía Ramírez
+2025-07-09 23:41:54,846 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Lucía Ramírez
+2025-07-09 23:41:54,893 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Rosa Sánchez
+2025-07-09 23:42:05,163 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Rosa Sánchez
+2025-07-09 23:42:05,166 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Rosa Sánchez
+2025-07-09 23:42:05,180 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Ana López
+2025-07-09 23:42:12,944 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Ana López
+2025-07-09 23:42:12,945 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Ana López
+2025-07-09 23:42:12,958 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Roberto Torres
+2025-07-09 23:42:19,787 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Roberto Torres
+2025-07-09 23:42:19,789 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Roberto Torres
+2025-07-09 23:42:19,805 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Elena Sánchez
+2025-07-09 23:42:28,621 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Elena Sánchez
+2025-07-09 23:42:28,626 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Elena Sánchez
+2025-07-09 23:42:28,645 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Ricardo Sánchez
+2025-07-09 23:42:38,304 - src.buyer_synthetic.agents.survey_executor_langgraph - WARNING - Respuesta no JSON para Ricardo Sánchez, intentando parsear...
+2025-07-09 23:42:38,306 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Ricardo Sánchez
+2025-07-09 23:42:38,310 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Ricardo Sánchez
+2025-07-09 23:42:38,362 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Teresa Torres
+2025-07-09 23:42:47,497 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Teresa Torres
+2025-07-09 23:42:47,498 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Teresa Torres
+2025-07-09 23:42:47,506 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para José Ramírez
+2025-07-09 23:42:57,036 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para José Ramírez
+2025-07-09 23:42:57,040 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para José Ramírez
+2025-07-09 23:42:57,062 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Lucía Pérez
+2025-07-09 23:43:09,524 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Lucía Pérez
+2025-07-09 23:43:09,813 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Lucía Pérez
+2025-07-09 23:43:10,135 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Lucía Pérez
+2025-07-09 23:43:15,888 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Lucía Pérez
+2025-07-09 23:43:15,891 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Lucía Pérez
+2025-07-09 23:43:15,913 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Ricardo Ramírez
+2025-07-09 23:43:24,110 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Ricardo Ramírez
+2025-07-09 23:43:24,112 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Ricardo Ramírez
+2025-07-09 23:43:24,128 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Jorge Sánchez
+2025-07-09 23:43:32,981 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Jorge Sánchez
+2025-07-09 23:43:32,985 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Jorge Sánchez
+2025-07-09 23:43:32,998 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Manuel Rodríguez
+2025-07-09 23:43:39,987 - src.buyer_synthetic.agents.survey_executor_langgraph - WARNING - Respuesta no JSON para Manuel Rodríguez, intentando parsear...
+2025-07-09 23:43:39,989 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Manuel Rodríguez
+2025-07-09 23:43:40,008 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Manuel Rodríguez
+2025-07-09 23:43:40,059 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Fernando López
+2025-07-09 23:43:51,061 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Fernando López
+2025-07-09 23:43:51,070 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Fernando López
+2025-07-09 23:43:51,154 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Elena Flores
+2025-07-09 23:44:01,994 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Elena Flores
+2025-07-09 23:44:01,997 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Elena Flores
+2025-07-09 23:44:02,010 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Teresa Torres
+2025-07-09 23:44:11,315 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Teresa Torres
+2025-07-09 23:44:11,317 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Teresa Torres
+2025-07-09 23:44:11,331 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Teresa Sánchez
+2025-07-09 23:44:18,266 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Teresa Sánchez
+2025-07-09 23:44:18,272 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Teresa Sánchez
+2025-07-09 23:44:18,694 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Carmen Flores
+2025-07-09 23:44:24,358 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Carmen Flores
+2025-07-09 23:44:24,360 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Carmen Flores
+2025-07-09 23:44:24,395 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Manuel Torres
+2025-07-09 23:44:29,959 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Manuel Torres
+2025-07-09 23:44:29,960 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Manuel Torres
+2025-07-09 23:44:29,972 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Mónica Ramírez
+2025-07-09 23:44:40,212 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Mónica Ramírez
+2025-07-09 23:44:40,217 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Mónica Ramírez
+2025-07-09 23:44:40,236 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Miguel Ramírez
+2025-07-09 23:44:46,097 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Miguel Ramírez
+2025-07-09 23:44:46,099 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Miguel Ramírez
+2025-07-09 23:44:46,110 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para María Torres
+2025-07-09 23:44:53,376 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para María Torres
+2025-07-09 23:44:53,381 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para María Torres
+2025-07-09 23:44:53,394 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Miguel López
+2025-07-09 23:45:05,469 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Miguel López
+2025-07-09 23:45:05,474 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Miguel López
+2025-07-09 23:45:05,493 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Teresa López
+2025-07-09 23:45:11,966 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Teresa López
+2025-07-09 23:45:11,967 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Teresa López
+2025-07-09 23:45:11,980 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Pedro González
+2025-07-09 23:45:22,181 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Pedro González
+2025-07-09 23:45:22,188 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Pedro González
+2025-07-09 23:45:22,201 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para José Torres
+2025-07-09 23:45:30,274 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para José Torres
+2025-07-09 23:45:30,276 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para José Torres
+2025-07-09 23:45:30,287 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para José Flores
+2025-07-09 23:45:38,783 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para José Flores
+2025-07-09 23:45:38,786 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para José Flores
+2025-07-09 23:45:38,805 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Ana Flores
+2025-07-09 23:45:49,723 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Ana Flores
+2025-07-09 23:45:49,724 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Ana Flores
+2025-07-09 23:45:49,737 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para José Martínez
+2025-07-09 23:45:56,279 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para José Martínez
+2025-07-09 23:45:56,283 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para José Martínez
+2025-07-09 23:45:56,307 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Teresa Martínez
+2025-07-09 23:46:07,795 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Teresa Martínez
+2025-07-09 23:46:07,797 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Teresa Martínez
+2025-07-09 23:46:07,807 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para José Flores
+2025-07-09 23:46:18,473 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para José Flores
+2025-07-09 23:46:18,474 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para José Flores
+2025-07-09 23:46:18,490 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Rosa Ramírez
+2025-07-09 23:46:24,654 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Rosa Ramírez
+2025-07-09 23:46:24,655 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Rosa Ramírez
+2025-07-09 23:46:24,663 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Fernando Sánchez
+2025-07-09 23:46:32,633 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Fernando Sánchez
+2025-07-09 23:46:32,636 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Fernando Sánchez
+2025-07-09 23:46:32,658 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Sandra Rodríguez
+2025-07-09 23:46:38,657 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Sandra Rodríguez
+2025-07-09 23:46:38,660 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Sandra Rodríguez
+2025-07-09 23:46:38,671 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para José Ramírez
+2025-07-09 23:46:44,071 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para José Ramírez
+2025-07-09 23:46:44,074 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para José Ramírez
+2025-07-09 23:46:44,087 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Jorge Sánchez
+2025-07-09 23:46:52,388 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Jorge Sánchez
+2025-07-09 23:46:52,391 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Jorge Sánchez
+2025-07-09 23:46:52,417 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Sandra Martínez
+2025-07-09 23:46:59,226 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Sandra Martínez
+2025-07-09 23:46:59,227 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Sandra Martínez
+2025-07-09 23:46:59,242 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Mónica González
+2025-07-09 23:47:08,959 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Mónica González
+2025-07-09 23:47:08,960 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Mónica González
+2025-07-09 23:47:08,972 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Ana Ramírez
+2025-07-09 23:47:14,302 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Ana Ramírez
+2025-07-09 23:47:14,303 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Ana Ramírez
+2025-07-09 23:47:14,318 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Roberto Martínez
+2025-07-09 23:47:27,189 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Roberto Martínez
+2025-07-09 23:47:27,190 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Roberto Martínez
+2025-07-09 23:47:27,200 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Rosa López
+2025-07-09 23:47:33,556 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Rosa López
+2025-07-09 23:47:33,559 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Rosa López
+2025-07-09 23:47:33,575 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Teresa Ramírez
+2025-07-09 23:47:39,576 - src.buyer_synthetic.agents.survey_executor_langgraph - WARNING - Respuesta no JSON para Teresa Ramírez, intentando parsear...
+2025-07-09 23:47:39,576 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Teresa Ramírez
+2025-07-09 23:47:39,577 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Teresa Ramírez
+2025-07-09 23:47:39,590 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Mónica Ramírez
+2025-07-09 23:47:49,719 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Mónica Ramírez
+2025-07-09 23:47:49,721 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Mónica Ramírez
+2025-07-09 23:47:49,731 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Carmen Flores
+2025-07-09 23:47:56,246 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Carmen Flores
+2025-07-09 23:47:56,248 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Carmen Flores
+2025-07-09 23:47:56,261 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Pedro Flores
+2025-07-09 23:48:06,905 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Pedro Flores
+2025-07-09 23:48:06,906 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Pedro Flores
+2025-07-09 23:48:06,915 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Lucía García
+2025-07-09 23:48:17,225 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Lucía García
+2025-07-09 23:48:17,227 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Lucía García
+2025-07-09 23:48:17,241 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Mónica González
+2025-07-09 23:48:22,399 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Mónica González
+2025-07-09 23:48:22,401 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Mónica González
+2025-07-09 23:48:22,410 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Ejecutando encuesta LangGraph para Roberto Ramírez
+2025-07-09 23:48:28,527 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Respuestas generadas para Roberto Ramírez
+2025-07-09 23:48:28,532 - src.buyer_synthetic.agents.survey_executor_langgraph - INFO - Validación completada: 0.80 para Roberto Ramírez
+2025-07-09 23:53:44,306 - src.buyer_synthetic.agents.results_visualizer - INFO - Analizando resultados de 50 respuestas
+2025-07-09 23:53:46,481 - src.buyer_synthetic.agents.results_visualizer - INFO - Generadas 4 visualizaciones
+2025-07-09 23:53:46,484 - src.buyer_synthetic.agents.results_visualizer - INFO - Análisis guardado en: /Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/analisis_electoral_20250709_235346.json
+2025-07-09 23:53:46,484 - src.buyer_synthetic.agents.results_visualizer - INFO - Análisis completado exitosamente

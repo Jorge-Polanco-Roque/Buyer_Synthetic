@@ -1,0 +1,301 @@
+id,nombre,edad,genero,ciudad,region,nse,ocupacion,ingresos,educacion,estado_civil,hijos,created_at
+258,Fernando López,30,M,Callao,Lima,E,Subempleado,"Menos de S/ 1,000",Sin educación formal,Conviviente,0,2025-07-10T13:41:06.946595
+48,Manuel Ramírez,29,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.921536
+228,Patricia Sánchez,36,F,Cajamarca,Sierra,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,4,2025-07-10T13:41:06.943411
+160,Teresa Ramírez,58,F,Arequipa,Sierra,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,3,2025-07-10T13:41:06.934668
+172,Carmen López,31,F,Puerto Maldonado,Selva,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.935811
+150,Carmen López,36,F,Huancayo,Sierra,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Divorciado,1,2025-07-10T13:41:06.933638
+56,José Torres,33,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.922383
+154,Manuel García,40,M,Cajamarca,Sierra,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,3,2025-07-10T13:41:06.934065
+214,Sandra Torres,29,F,Chiclayo,Costa,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Técnica incompleta,Conviviente,1,2025-07-10T13:41:06.941849
+204,Ana Pérez,51,F,Callao,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.940809
+261,José Martínez,37,M,Lima,Lima,E,Desempleado,"Menos de S/ 1,000",Primaria completa,Casado,2,2025-07-10T13:41:06.946903
+19,Carlos Martínez,52,M,Cajamarca,Sierra,B,Comerciante,"S/ 4,000 - S/ 10,000",Superior completa,Soltero,0,2025-07-10T13:41:06.917404
+101,Rosa Pérez,27,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,2,2025-07-10T13:41:06.928692
+203,Ana García,46,F,Lima,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,2,2025-07-10T13:41:06.940709
+44,Luis Sánchez,32,M,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-10T13:41:06.920891
+144,Carmen Martínez,31,F,Ayacucho,Sierra,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.933006
+131,Miguel Martínez,19,M,Trujillo,Costa,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.931602
+155,Sandra Rodríguez,54,F,Cajamarca,Sierra,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,4,2025-07-10T13:41:06.934157
+21,Patricia Martínez,61,F,Arequipa,Sierra,B,Comerciante,"S/ 4,000 - S/ 10,000",Superior completa,Casado,1,2025-07-10T13:41:06.917842
+223,Luis García,34,M,Huancayo,Sierra,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Técnica incompleta,Soltero,0,2025-07-10T13:41:06.942741
+254,Carlos Sánchez,65,M,Pucallpa,Selva,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,0,2025-07-10T13:41:06.946159
+242,María López,27,F,Iquitos,Selva,D,Obrero,"S/ 1,000 - S/ 2,000",Técnica incompleta,Conviviente,1,2025-07-10T13:41:06.944929
+193,Lucía Sánchez,18,F,Lima,Lima,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Soltero,0,2025-07-10T13:41:06.939644
+84,Rosa González,27,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Conviviente,0,2025-07-10T13:41:06.926833
+162,Ricardo Rodríguez,57,M,Ayacucho,Sierra,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.934855
+157,Ricardo Flores,46,M,Ayacucho,Sierra,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Divorciado,0,2025-07-10T13:41:06.934383
+299,María González,68,F,Pucallpa,Selva,E,Jubilado,"Menos de S/ 1,000",Secundaria incompleta,Casado,2,2025-07-10T13:41:06.950844
+53,Fernando Ramírez,34,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.922104
+63,José Sánchez,27,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,2,2025-07-10T13:41:06.923090
+95,Manuel Martínez,30,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.928092
+289,María Martínez,18,F,Pucallpa,Selva,E,Estudiante/Trabajador Joven,"Menos de S/ 1,000",Estudiando,Conviviente,0,2025-07-10T13:41:06.949704
+269,María González,67,F,Lima,Lima,E,Jubilado,"Menos de S/ 1,000",Sin educación formal,Casado,2,2025-07-10T13:41:06.947686
+230,José Pérez,53,M,Cajamarca,Sierra,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Soltero,2,2025-07-10T13:41:06.943691
+102,Pedro García,34,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,2,2025-07-10T13:41:06.928808
+294,Carlos Martínez,37,M,Iquitos,Selva,E,Subempleado,"Menos de S/ 1,000",Primaria completa,Casado,0,2025-07-10T13:41:06.950205
+33,Teresa García,24,F,Lima,Lima,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.919678
+121,Elena González,54,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Divorciado,1,2025-07-10T13:41:06.930637
+156,Ricardo Flores,51,M,Cusco,Sierra,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Viudo,3,2025-07-10T13:41:06.934259
+119,Rosa Sánchez,45,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,3,2025-07-10T13:41:06.930443
+147,Elena González,28,F,Huancayo,Sierra,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,0,2025-07-10T13:41:06.933324
+271,Patricia García,42,F,Trujillo,Costa,E,Trabajo Doméstico,"Menos de S/ 1,000",Secundaria incompleta,Soltero,2,2025-07-10T13:41:06.947901
+232,Mónica Pérez,52,F,Huancayo,Sierra,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,0,2025-07-10T13:41:06.943915
+234,José García,55,M,Ayacucho,Sierra,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Divorciado,0,2025-07-10T13:41:06.944121
+229,Luis López,38,M,Cusco,Sierra,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,2,2025-07-10T13:41:06.943524
+43,Sandra González,27,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,2,2025-07-10T13:41:06.920751
+23,Ricardo García,67,M,Cajamarca,Sierra,B,Jubilado,"S/ 4,000 - S/ 10,000",Técnica completa,Casado,1,2025-07-10T13:41:06.918059
+272,Jorge González,52,M,Trujillo,Costa,E,Trabajador Eventual,"Menos de S/ 1,000",Primaria completa,Casado,2,2025-07-10T13:41:06.948009
+80,Teresa González,28,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,1,2025-07-10T13:41:06.926384
+236,Miguel Pérez,57,M,Cusco,Sierra,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Divorciado,1,2025-07-10T13:41:06.944351
+251,Patricia González,59,F,Pucallpa,Selva,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,1,2025-07-10T13:41:06.945839
+227,Mónica Flores,36,F,Cusco,Sierra,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Divorciado,2,2025-07-10T13:41:06.943295
+252,Ricardo Martínez,58,M,Pucallpa,Selva,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,2,2025-07-10T13:41:06.945961
+7,Carlos García,54,M,Lima,Lima,B,Empleado Calificado,"S/ 4,000 - S/ 10,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.913451
+133,Jorge Sánchez,34,M,Tacna,Costa,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.931816
+292,Jorge Sánchez,29,M,Tarapoto,Selva,E,Subempleado,"Menos de S/ 1,000",Primaria completa,Casado,0,2025-07-10T13:41:06.950013
+180,Roberto Ramírez,35,M,Iquitos,Selva,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.937008
+146,Patricia Ramírez,30,F,Cajamarca,Sierra,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.933200
+286,Carlos Pérez,73,M,Ayacucho,Sierra,E,Jubilado,"Menos de S/ 1,000",Secundaria incompleta,Casado,2,2025-07-10T13:41:06.949437
+182,Jorge Rodríguez,47,M,Tarapoto,Selva,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,3,2025-07-10T13:41:06.937159
+278,Luis Rodríguez,39,M,Ayacucho,Sierra,E,Desempleado,"Menos de S/ 1,000",Primaria completa,Casado,3,2025-07-10T13:41:06.948611
+93,Elena Rodríguez,25,F,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.927908
+103,Luis Torres,31,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.928911
+96,Jorge Flores,28,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-10T13:41:06.928173
+123,Teresa Sánchez,58,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.930826
+275,José Torres,30,M,Huancayo,Sierra,E,Desempleado,"Menos de S/ 1,000",Primaria completa,Casado,0,2025-07-10T13:41:06.948291
+239,Jorge González,75,M,Cajamarca,Sierra,D,Jubilado,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.944664
+222,Carmen Torres,30,F,Cusco,Sierra,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.942623
+277,Carlos García,25,M,Ayacucho,Sierra,E,Desempleado,"Menos de S/ 1,000",Sin educación formal,Casado,1,2025-07-10T13:41:06.948517
+130,Rosa García,76,F,Lima,Lima,C,Jubilado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-10T13:41:06.931527
+210,Luis Rodríguez,74,M,Lima,Lima,D,Jubilado,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.941481
+163,Lucía García,58,F,Cusco,Sierra,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Divorciado,1,2025-07-10T13:41:06.934954
+245,Sandra Martínez,37,F,Tarapoto,Selva,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Soltero,2,2025-07-10T13:41:06.945196
+99,Mónica Martínez,25,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,2,2025-07-10T13:41:06.928507
+62,Pedro García,33,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.922988
+263,Jorge González,46,M,Lima,Lima,E,Trabajador Eventual,"Menos de S/ 1,000",Primaria completa,Casado,0,2025-07-10T13:41:06.947094
+297,Teresa García,61,F,Tarapoto,Selva,E,Trabajador Eventual,"Menos de S/ 1,000",Sin educación formal,Casado,1,2025-07-10T13:41:06.950510
+259,Rosa González,27,F,Callao,Lima,E,Trabajo Doméstico,"Menos de S/ 1,000",Primaria completa,Soltero,1,2025-07-10T13:41:06.946690
+184,Ana Flores,51,F,Puerto Maldonado,Selva,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,4,2025-07-10T13:41:06.937385
+176,Carmen Ramírez,28,F,Iquitos,Selva,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,0,2025-07-10T13:41:06.936597
+142,Rosa Martínez,21,F,Arequipa,Sierra,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,1,2025-07-10T13:41:06.932805
+165,José Pérez,72,M,Ayacucho,Sierra,C,Jubilado,"S/ 2,000 - S/ 4,000",Secundaria completa,Divorciado,1,2025-07-10T13:41:06.935153
+64,Mónica Ramírez,32,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,2,2025-07-10T13:41:06.923177
+202,Teresa Ramírez,43,F,Lima,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Técnica incompleta,Casado,3,2025-07-10T13:41:06.940621
+113,Pedro Sánchez,41,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,2,2025-07-10T13:41:06.929873
+148,Miguel López,33,M,Arequipa,Sierra,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,2,2025-07-10T13:41:06.933422
+221,María Ramírez,19,F,Huancayo,Sierra,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Soltero,0,2025-07-10T13:41:06.942506
+65,Roberto Martínez,26,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.923258
+283,María Pérez,47,F,Arequipa,Sierra,E,Trabajador Eventual,"Menos de S/ 1,000",Secundaria incompleta,Casado,1,2025-07-10T13:41:06.949130
+262,Mónica Ramírez,36,F,Lima,Lima,E,Trabajador Eventual,"Menos de S/ 1,000",Secundaria incompleta,Soltero,2,2025-07-10T13:41:06.946986
+231,Patricia Rodríguez,49,F,Arequipa,Sierra,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria completa,Divorciado,3,2025-07-10T13:41:06.943798
+10,Carlos Torres,62,M,Lima,Lima,B,Empleado Calificado,"S/ 4,000 - S/ 10,000",Técnica completa,Casado,0,2025-07-10T13:41:06.914273
+205,Pedro Pérez,51,M,Lima,Lima,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Viudo,2,2025-07-10T13:41:06.940898
+189,María García,68,F,Puerto Maldonado,Selva,C,Jubilado,"S/ 2,000 - S/ 4,000",Superior incompleta,Divorciado,1,2025-07-10T13:41:06.938594
+107,Pedro González,29,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.929245
+264,María García,49,F,Callao,Lima,E,Desempleado,"Menos de S/ 1,000",Sin educación formal,Casado,2,2025-07-10T13:41:06.947200
+197,Manuel Ramírez,33,M,Callao,Lima,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,0,2025-07-10T13:41:06.940161
+246,Patricia Torres,41,F,Pucallpa,Selva,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,1,2025-07-10T13:41:06.945312
+267,Elena García,62,F,Callao,Lima,E,Trabajador Eventual,"Menos de S/ 1,000",Sin educación formal,Casado,3,2025-07-10T13:41:06.947514
+241,Jorge Torres,19,M,Tarapoto,Selva,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Soltero,0,2025-07-10T13:41:06.944815
+151,Pedro Torres,41,M,Cusco,Sierra,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.933733
+77,Fernando Martínez,27,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Conviviente,1,2025-07-10T13:41:06.925883
+140,Ana López,21,F,Cusco,Sierra,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.932619
+5,Sandra Sánchez,37,F,Callao,Lima,B,Técnico Especializado,"S/ 4,000 - S/ 10,000",Superior completa,Casado,3,2025-07-10T13:41:06.912908
+244,Luis García,25,M,Tarapoto,Selva,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Técnica incompleta,Casado,2,2025-07-10T13:41:06.945107
+82,Rosa Ramírez,34,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,2,2025-07-10T13:41:06.926620
+139,Carmen Pérez,75,F,Chiclayo,Costa,C,Jubilado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.932539
+207,Luis López,64,M,Callao,Lima,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,2,2025-07-10T13:41:06.941140
+76,Mónica Ramírez,30,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,0,2025-07-10T13:41:06.925728
+72,Fernando Ramírez,29,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.924848
+173,Lucía González,32,F,Iquitos,Selva,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.935931
+9,Elena López,56,F,Callao,Lima,B,Profesional,"S/ 4,000 - S/ 10,000",Superior completa,Casado,1,2025-07-10T13:41:06.914166
+237,Fernando Sánchez,67,M,Ayacucho,Sierra,D,Jubilado,"S/ 1,000 - S/ 2,000",Técnica incompleta,Divorciado,3,2025-07-10T13:41:06.944444
+104,María García,25,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.928997
+61,Roberto Martínez,33,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Conviviente,2,2025-07-10T13:41:06.922880
+112,Manuel Torres,41,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,2,2025-07-10T13:41:06.929765
+225,Carlos Torres,28,M,Cusco,Sierra,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Técnica incompleta,Soltero,2,2025-07-10T13:41:06.943060
+181,Elena Torres,47,F,Tarapoto,Selva,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.937085
+145,José Torres,25,M,Arequipa,Sierra,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,1,2025-07-10T13:41:06.933102
+177,Fernando Martínez,42,M,Puerto Maldonado,Selva,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,2,2025-07-10T13:41:06.936740
+36,María Ramírez,24,F,Callao,Lima,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.919935
+188,Ana González,61,F,Tarapoto,Selva,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.938208
+226,Rosa Pérez,40,F,Cajamarca,Sierra,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Soltero,4,2025-07-10T13:41:06.943173
+114,Ricardo Torres,44,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,2,2025-07-10T13:41:06.929967
+138,Lucía Rodríguez,55,F,Ica,Costa,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,0,2025-07-10T13:41:06.932460
+88,Manuel Rodríguez,30,M,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-10T13:41:06.927361
+132,Lucía González,25,F,Chiclayo,Costa,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.931712
+215,Sandra García,35,F,Ica,Costa,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria completa,Divorciado,0,2025-07-10T13:41:06.941949
+265,Lucía Martínez,54,F,Callao,Lima,E,Trabajo Doméstico,"Menos de S/ 1,000",Sin educación formal,Casado,1,2025-07-10T13:41:06.947315
+52,Luis Pérez,28,M,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.922022
+291,Lucía Sánchez,26,F,Pucallpa,Selva,E,Desempleado,"Menos de S/ 1,000",Sin educación formal,Casado,2,2025-07-10T13:41:06.949898
+60,Elena Pérez,25,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.922782
+109,Fernando Torres,29,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.929437
+279,Luis Pérez,43,M,Arequipa,Sierra,E,Trabajador Eventual,"Menos de S/ 1,000",Sin educación formal,Soltero,2,2025-07-10T13:41:06.948718
+3,Luis Martínez,26,M,Callao,Lima,B,Profesional,"S/ 4,000 - S/ 10,000",Técnica completa,Casado,0,2025-07-10T13:41:06.912691
+293,Mónica López,43,F,Puerto Maldonado,Selva,E,Trabajador Eventual,"Menos de S/ 1,000",Secundaria incompleta,Casado,1,2025-07-10T13:41:06.950116
+92,Ana Rodríguez,34,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.927809
+161,Luis González,59,M,Huancayo,Sierra,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,2,2025-07-10T13:41:06.934771
+126,María Ramírez,64,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.931140
+185,Elena Martínez,56,F,Pucallpa,Selva,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,4,2025-07-10T13:41:06.937580
+124,Jorge Torres,59,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Divorciado,3,2025-07-10T13:41:06.930932
+274,Patricia Flores,20,F,Huancayo,Sierra,E,Estudiante/Trabajador Joven,"Menos de S/ 1,000",Estudiando,Soltero,0,2025-07-10T13:41:06.948190
+67,Pedro González,31,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.923440
+81,María Flores,30,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-10T13:41:06.926523
+273,María Flores,23,F,Arequipa,Sierra,E,Estudiante/Trabajador Joven,"Menos de S/ 1,000",Estudiando,Soltero,1,2025-07-10T13:41:06.948093
+16,Elena López,33,F,Ayacucho,Sierra,B,Profesional,"S/ 4,000 - S/ 10,000",Técnica completa,Casado,0,2025-07-10T13:41:06.916562
+120,José Flores,50,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.930539
+50,Carmen Sánchez,31,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.921732
+153,Rosa Rodríguez,39,F,Ayacucho,Sierra,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,2,2025-07-10T13:41:06.933951
+97,Pedro Ramírez,33,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.928286
+216,Jorge López,54,M,Piura,Costa,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,0,2025-07-10T13:41:06.942057
+268,Manuel Flores,66,M,Callao,Lima,E,Jubilado,"Menos de S/ 1,000",Sin educación formal,Casado,2,2025-07-10T13:41:06.947596
+25,Carlos Ramírez,34,M,Puerto Maldonado,Selva,B,Comerciante,"S/ 4,000 - S/ 10,000",Superior completa,Casado,1,2025-07-10T13:41:06.918250
+152,Miguel Pérez,35,M,Cusco,Sierra,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,3,2025-07-10T13:41:06.933853
+280,Teresa Pérez,38,F,Ayacucho,Sierra,E,Trabajo Doméstico,"Menos de S/ 1,000",Sin educación formal,Casado,0,2025-07-10T13:41:06.948824
+250,Jorge Rodríguez,54,M,Pucallpa,Selva,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Soltero,1,2025-07-10T13:41:06.945730
+136,José Pérez,54,M,Piura,Costa,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,3,2025-07-10T13:41:06.932150
+79,Manuel González,25,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,0,2025-07-10T13:41:06.926130
+285,María Ramírez,59,F,Arequipa,Sierra,E,Desempleado,"Menos de S/ 1,000",Sin educación formal,Casado,0,2025-07-10T13:41:06.949353
+46,Miguel Rodríguez,28,M,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Conviviente,1,2025-07-10T13:41:06.921281
+118,Teresa Sánchez,47,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Divorciado,0,2025-07-10T13:41:06.930357
+116,Ricardo Sánchez,52,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,4,2025-07-10T13:41:06.930170
+129,Patricia Martínez,69,F,Lima,Lima,C,Jubilado,"S/ 2,000 - S/ 4,000",Secundaria completa,Divorciado,1,2025-07-10T13:41:06.931424
+74,Lucía Torres,32,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,0,2025-07-10T13:41:06.925536
+224,Carlos Torres,29,M,Ayacucho,Sierra,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Conviviente,2,2025-07-10T13:41:06.942891
+24,Carlos Flores,18,M,Iquitos,Selva,B,Estudiante/Trabajador Joven,"S/ 4,000 - S/ 10,000",Estudiando,Soltero,0,2025-07-10T13:41:06.918146
+30,Sandra Torres,51,F,Puerto Maldonado,Selva,B,Comerciante,"S/ 4,000 - S/ 10,000",Técnica completa,Casado,1,2025-07-10T13:41:06.919394
+211,José Pérez,66,M,Callao,Lima,D,Jubilado,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,3,2025-07-10T13:41:06.941576
+260,Pedro Torres,35,M,Lima,Lima,E,Trabajo Doméstico,"Menos de S/ 1,000",Primaria completa,Casado,2,2025-07-10T13:41:06.946804
+98,Luis Martínez,25,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.928409
+13,Miguel Ramírez,19,M,Arequipa,Sierra,B,Estudiante/Trabajador Joven,"S/ 4,000 - S/ 10,000",Estudiando,Soltero,0,2025-07-10T13:41:06.915038
+201,Teresa Ramírez,38,F,Lima,Lima,D,Obrero,"S/ 1,000 - S/ 2,000",Técnica incompleta,Casado,0,2025-07-10T13:41:06.940533
+238,Elena López,80,F,Huancayo,Sierra,D,Jubilado,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,2,2025-07-10T13:41:06.944545
+166,Jorge Rodríguez,66,M,Huancayo,Sierra,C,Jubilado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.935248
+186,Pedro Flores,62,M,Pucallpa,Selva,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.937667
+105,Patricia González,28,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.929082
+192,Jorge Rodríguez,20,M,Callao,Lima,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Conviviente,0,2025-07-10T13:41:06.939316
+94,Jorge López,25,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Conviviente,1,2025-07-10T13:41:06.927999
+199,Ricardo Rodríguez,41,M,Callao,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Soltero,1,2025-07-10T13:41:06.940348
+68,Fernando González,32,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.923543
+282,Manuel González,47,M,Ayacucho,Sierra,E,Desempleado,"Menos de S/ 1,000",Sin educación formal,Casado,1,2025-07-10T13:41:06.949021
+175,Ricardo Flores,33,M,Pucallpa,Selva,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.936159
+233,Fernando Rodríguez,48,M,Cusco,Sierra,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,0,2025-07-10T13:41:06.944020
+195,Fernando Flores,31,M,Callao,Lima,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Técnica incompleta,Conviviente,1,2025-07-10T13:41:06.939819
+75,Patricia López,31,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Conviviente,1,2025-07-10T13:41:06.925646
+47,Rosa Martínez,25,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,2,2025-07-10T13:41:06.921428
+42,Patricia López,28,F,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.920660
+235,Ana Martínez,56,F,Cajamarca,Sierra,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.944240
+26,Teresa Rodríguez,33,F,Iquitos,Selva,B,Empleado Calificado,"S/ 4,000 - S/ 10,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.918820
+11,Miguel Martínez,74,M,Callao,Lima,B,Jubilado,"S/ 4,000 - S/ 10,000",Técnica completa,Casado,2,2025-07-10T13:41:06.914382
+115,Carlos Pérez,42,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,3,2025-07-10T13:41:06.930072
+89,Pedro González,25,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.927474
+1,Mónica Ramírez,22,F,Callao,Lima,B,Estudiante/Trabajador Joven,"S/ 4,000 - S/ 10,000",Estudiando,Soltero,1,2025-07-10T13:41:06.912219
+22,Fernando López,62,M,Arequipa,Sierra,B,Técnico Especializado,"S/ 4,000 - S/ 10,000",Superior incompleta,Casado,3,2025-07-10T13:41:06.917959
+218,Patricia López,77,F,Tacna,Costa,D,Jubilado,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,3,2025-07-10T13:41:06.942268
+206,Roberto Martínez,54,M,Callao,Lima,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Técnica incompleta,Soltero,0,2025-07-10T13:41:06.941000
+217,Elena Ramírez,56,F,Tacna,Costa,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Soltero,2,2025-07-10T13:41:06.942156
+281,Pedro Sánchez,46,M,Cajamarca,Sierra,E,Subempleado,"Menos de S/ 1,000",Primaria completa,Casado,3,2025-07-10T13:41:06.948927
+288,Lucía González,22,F,Iquitos,Selva,E,Estudiante/Trabajador Joven,"Menos de S/ 1,000",Estudiando,Soltero,0,2025-07-10T13:41:06.949632
+35,María Rodríguez,22,F,Lima,Lima,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.919852
+73,Lucía Ramírez,32,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.925228
+248,Carmen Flores,54,F,Puerto Maldonado,Selva,D,Obrero,"S/ 1,000 - S/ 2,000",Técnica incompleta,Soltero,3,2025-07-10T13:41:06.945540
+100,Ricardo Rodríguez,26,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.928594
+4,Roberto Pérez,27,M,Callao,Lima,B,Comerciante,"S/ 4,000 - S/ 10,000",Superior incompleta,Conviviente,1,2025-07-10T13:41:06.912803
+240,José Sánchez,20,M,Iquitos,Selva,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Soltero,1,2025-07-10T13:41:06.944741
+86,María Pérez,31,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-10T13:41:06.927035
+179,Rosa López,35,F,Puerto Maldonado,Selva,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.936921
+183,Carmen Sánchez,45,F,Iquitos,Selva,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Viudo,2,2025-07-10T13:41:06.937282
+143,Carmen González,18,F,Ayacucho,Sierra,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Conviviente,0,2025-07-10T13:41:06.932897
+2,Elena González,22,F,Callao,Lima,B,Estudiante/Trabajador Joven,"S/ 4,000 - S/ 10,000",Estudiando,Soltero,0,2025-07-10T13:41:06.912496
+284,Fernando Pérez,60,M,Arequipa,Sierra,E,Desempleado,"Menos de S/ 1,000",Sin educación formal,Casado,1,2025-07-10T13:41:06.949246
+69,Sandra Rodríguez,34,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,0,2025-07-10T13:41:06.923703
+49,Sandra González,27,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-10T13:41:06.921639
+253,Ricardo Flores,75,M,Tarapoto,Selva,D,Jubilado,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,3,2025-07-10T13:41:06.946067
+78,José Flores,33,M,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,0,2025-07-10T13:41:06.926011
+134,Teresa Ramírez,36,F,Tacna,Costa,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.931935
+298,Luis López,62,M,Pucallpa,Selva,E,Trabajo Doméstico,"Menos de S/ 1,000",Secundaria incompleta,Casado,0,2025-07-10T13:41:06.950670
+28,Fernando Sánchez,37,M,Tarapoto,Selva,B,Profesional,"S/ 4,000 - S/ 10,000",Técnica completa,Viudo,1,2025-07-10T13:41:06.919208
+8,Fernando Pérez,45,M,Callao,Lima,B,Profesional,"S/ 4,000 - S/ 10,000",Superior completa,Casado,2,2025-07-10T13:41:06.914046
+149,Luis Ramírez,29,M,Cusco,Sierra,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-10T13:41:06.933532
+208,Elena Flores,61,F,Lima,Lima,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.941256
+256,Carmen García,24,F,Callao,Lima,E,Estudiante/Trabajador Joven,"Menos de S/ 1,000",Estudiando,Conviviente,1,2025-07-10T13:41:06.946328
+270,Fernando García,26,M,Piura,Costa,E,Trabajador Eventual,"Menos de S/ 1,000",Sin educación formal,Soltero,2,2025-07-10T13:41:06.947784
+169,Miguel Sánchez,22,M,Puerto Maldonado,Selva,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.935532
+70,Ana Flores,25,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.923990
+219,Fernando González,21,M,Cusco,Sierra,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Conviviente,1,2025-07-10T13:41:06.942356
+45,Manuel Pérez,29,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.921006
+108,Fernando González,27,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.929325
+110,Rosa Rodríguez,40,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.929541
+213,Jorge García,24,M,Ica,Costa,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Soltero,1,2025-07-10T13:41:06.941749
+296,Patricia Ramírez,45,F,Puerto Maldonado,Selva,E,Trabajo Doméstico,"Menos de S/ 1,000",Secundaria incompleta,Divorciado,1,2025-07-10T13:41:06.950406
+200,Lucía López,35,F,Lima,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,1,2025-07-10T13:41:06.940448
+91,Miguel García,27,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.927696
+158,Sandra González,49,F,Ayacucho,Sierra,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Viudo,2,2025-07-10T13:41:06.934468
+266,Mónica Pérez,63,F,Lima,Lima,E,Trabajo Doméstico,"Menos de S/ 1,000",Secundaria incompleta,Divorciado,1,2025-07-10T13:41:06.947417
+20,Ricardo Martínez,54,M,Cajamarca,Sierra,B,Profesional,"S/ 4,000 - S/ 10,000",Superior incompleta,Casado,2,2025-07-10T13:41:06.917643
+128,Manuel Torres,70,M,Callao,Lima,C,Jubilado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-10T13:41:06.931319
+300,José García,73,M,Puerto Maldonado,Selva,E,Jubilado,"Menos de S/ 1,000",Primaria completa,Casado,0,2025-07-10T13:41:06.950933
+40,Pedro Pérez,27,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-10T13:41:06.920462
+290,Teresa Rodríguez,27,F,Pucallpa,Selva,E,Trabajador Eventual,"Menos de S/ 1,000",Secundaria incompleta,Casado,0,2025-07-10T13:41:06.949813
+247,Patricia López,36,F,Iquitos,Selva,D,Comerciante Menor,"S/ 1,000 - S/ 2,000",Técnica incompleta,Divorciado,1,2025-07-10T13:41:06.945438
+34,Ricardo Torres,21,M,Callao,Lima,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.919763
+54,Luis Sánchez,28,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Conviviente,1,2025-07-10T13:41:06.922185
+106,Manuel López,29,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Conviviente,1,2025-07-10T13:41:06.929165
+122,Lucía Flores,58,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Viudo,4,2025-07-10T13:41:06.930728
+170,Fernando Ramírez,23,M,Puerto Maldonado,Selva,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,1,2025-07-10T13:41:06.935621
+85,Patricia Torres,30,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.926945
+31,José López,64,M,Tarapoto,Selva,B,Profesional,"S/ 4,000 - S/ 10,000",Superior completa,Soltero,2,2025-07-10T13:41:06.919489
+209,Miguel Rodríguez,58,M,Lima,Lima,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Secundaria completa,Divorciado,0,2025-07-10T13:41:06.941384
+32,Miguel Ramírez,73,M,Iquitos,Selva,B,Jubilado,"S/ 4,000 - S/ 10,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.919604
+196,Teresa Pérez,34,F,Lima,Lima,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Soltero,1,2025-07-10T13:41:06.940069
+41,Ana Rodríguez,27,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.920575
+38,Fernando Sánchez,29,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.920268
+141,Jorge Ramírez,23,M,Arequipa,Sierra,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,1,2025-07-10T13:41:06.932715
+127,Ricardo Torres,69,M,Lima,Lima,C,Jubilado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-10T13:41:06.931230
+171,Carmen Flores,20,F,Pucallpa,Selva,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.935697
+164,José Torres,79,M,Cajamarca,Sierra,C,Jubilado,"S/ 2,000 - S/ 4,000",Superior incompleta,Divorciado,1,2025-07-10T13:41:06.935054
+194,Lucía López,22,F,Lima,Lima,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Soltero,1,2025-07-10T13:41:06.939727
+27,Sandra González,41,F,Puerto Maldonado,Selva,B,Comerciante,"S/ 4,000 - S/ 10,000",Técnica completa,Casado,1,2025-07-10T13:41:06.919088
+187,Luis Ramírez,63,M,Tarapoto,Selva,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,2,2025-07-10T13:41:06.937935
+57,Carmen Ramírez,31,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.922494
+125,Lucía Ramírez,61,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Viudo,3,2025-07-10T13:41:06.931039
+83,Elena González,29,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,1,2025-07-10T13:41:06.926713
+87,José Pérez,27,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.927184
+37,José Torres,23,M,Lima,Lima,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.920171
+58,Luis Flores,27,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-10T13:41:06.922593
+6,Ricardo Torres,38,M,Callao,Lima,B,Comerciante,"S/ 4,000 - S/ 10,000",Superior completa,Casado,2,2025-07-10T13:41:06.913225
+255,Rosa Ramírez,19,F,Callao,Lima,E,Estudiante/Trabajador Joven,"Menos de S/ 1,000",Estudiando,Soltero,0,2025-07-10T13:41:06.946247
+117,Jorge Ramírez,52,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Divorciado,1,2025-07-10T13:41:06.930261
+212,Carmen Ramírez,79,F,Callao,Lima,D,Jubilado,"S/ 1,000 - S/ 2,000",Técnica incompleta,Casado,3,2025-07-10T13:41:06.941662
+51,Sandra García,31,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.921936
+12,Pedro Rodríguez,70,M,Lima,Lima,B,Jubilado,"S/ 4,000 - S/ 10,000",Superior completa,Casado,1,2025-07-10T13:41:06.914714
+257,María Ramírez,27,F,Lima,Lima,E,Trabajo Doméstico,"Menos de S/ 1,000",Primaria completa,Soltero,0,2025-07-10T13:41:06.946458
+220,Luis Sánchez,22,M,Ayacucho,Sierra,D,Estudiante/Trabajador Joven,"S/ 1,000 - S/ 2,000",Estudiando,Soltero,0,2025-07-10T13:41:06.942436
+111,Elena Martínez,38,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Divorciado,3,2025-07-10T13:41:06.929650
+167,Jorge Martínez,71,M,Arequipa,Sierra,C,Jubilado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.935362
+17,Roberto Martínez,42,M,Cusco,Sierra,B,Profesional,"S/ 4,000 - S/ 10,000",Técnica completa,Soltero,0,2025-07-10T13:41:06.916975
+249,Sandra González,48,F,Pucallpa,Selva,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria completa,Viudo,1,2025-07-10T13:41:06.945636
+178,Fernando Sánchez,43,M,Pucallpa,Selva,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-10T13:41:06.936823
+198,Carlos López,34,M,Callao,Lima,D,Trabajador Independiente,"S/ 1,000 - S/ 2,000",Técnica incompleta,Soltero,0,2025-07-10T13:41:06.940245
+191,Miguel González,72,M,Puerto Maldonado,Selva,C,Jubilado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,2,2025-07-10T13:41:06.939016
+287,María Ramírez,69,F,Cajamarca,Sierra,E,Jubilado,"Menos de S/ 1,000",Primaria completa,Casado,2,2025-07-10T13:41:06.949535
+243,Manuel Sánchez,29,M,Tarapoto,Selva,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,0,2025-07-10T13:41:06.945016
+137,Ana Torres,49,F,Trujillo,Costa,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,4,2025-07-10T13:41:06.932252
+159,Mónica Flores,48,F,Ayacucho,Sierra,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Divorciado,2,2025-07-10T13:41:06.934554
+295,José González,51,M,Puerto Maldonado,Selva,E,Subempleado,"Menos de S/ 1,000",Secundaria incompleta,Soltero,2,2025-07-10T13:41:06.950302
+90,Miguel Flores,28,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Conviviente,1,2025-07-10T13:41:06.927571
+14,Roberto Rodríguez,20,M,Cusco,Sierra,B,Estudiante/Trabajador Joven,"S/ 4,000 - S/ 10,000",Estudiando,Conviviente,0,2025-07-10T13:41:06.915425
+29,Lucía Rodríguez,49,F,Puerto Maldonado,Selva,B,Empleado Calificado,"S/ 4,000 - S/ 10,000",Técnica completa,Soltero,1,2025-07-10T13:41:06.919304
+18,Manuel Rodríguez,35,M,Cajamarca,Sierra,B,Comerciante,"S/ 4,000 - S/ 10,000",Superior completa,Soltero,1,2025-07-10T13:41:06.917244
+135,Luis Rodríguez,44,M,Piura,Costa,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,2,2025-07-10T13:41:06.932048
+71,Roberto Sánchez,25,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.924594
+174,Miguel García,31,M,Pucallpa,Selva,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,2,2025-07-10T13:41:06.936014
+276,Lucía Ramírez,27,F,Arequipa,Sierra,E,Subempleado,"Menos de S/ 1,000",Primaria completa,Casado,2,2025-07-10T13:41:06.948400
+168,Manuel Sánchez,21,M,Puerto Maldonado,Selva,C,Estudiante/Trabajador Joven,"S/ 2,000 - S/ 4,000",Estudiando,Soltero,0,2025-07-10T13:41:06.935448
+59,Mónica Rodríguez,27,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-10T13:41:06.922688
+190,José Martínez,78,M,Tarapoto,Selva,C,Jubilado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,0,2025-07-10T13:41:06.938795
+15,Teresa González,27,F,Cajamarca,Sierra,B,Comerciante,"S/ 4,000 - S/ 10,000",Técnica completa,Conviviente,2,2025-07-10T13:41:06.915994
+55,Pedro García,29,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,2,2025-07-10T13:41:06.922301
+66,Rosa Martínez,32,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-10T13:41:06.923360
+39,Luis Pérez,30,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,0,2025-07-10T13:41:06.920352

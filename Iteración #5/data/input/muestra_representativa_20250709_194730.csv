@@ -1,0 +1,11 @@
+id,nombre,edad,genero,ciudad,region,nse,ocupacion,ingresos,educacion,estado_civil,hijos,created_at
+5,Rosa Sánchez,28,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-09T19:47:30.391784
+2,Sandra Torres,28,F,Callao,Lima,B,Técnico Especializado,"S/ 4,000 - S/ 10,000",Técnica completa,Soltero,1,2025-07-09T19:47:30.391537
+10,Luis García,25,M,Callao,Lima,E,Desempleado,"Menos de S/ 1,000",Secundaria incompleta,Soltero,1,2025-07-09T19:47:30.392169
+9,Miguel Martínez,31,M,Lima,Lima,E,Desempleado,"Menos de S/ 1,000",Sin educación formal,Soltero,0,2025-07-09T19:47:30.392094
+4,Mónica Martínez,31,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-09T19:47:30.391705
+6,María Flores,32,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-09T19:47:30.391862
+3,Jorge González,26,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-09T19:47:30.391624
+8,Miguel Martínez,32,M,Lima,Lima,D,Obrero,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,0,2025-07-09T19:47:30.392017
+7,Teresa Ramírez,28,F,Callao,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Casado,1,2025-07-09T19:47:30.391941
+1,José Rodríguez,26,M,Lima,Lima,A,Director,"S/ 10,000+",Postgrado,Conviviente,1,2025-07-09T19:47:30.391429

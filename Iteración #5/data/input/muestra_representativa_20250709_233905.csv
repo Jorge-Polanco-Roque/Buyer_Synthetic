@@ -1,0 +1,51 @@
+id,nombre,edad,genero,ciudad,region,nse,ocupacion,ingresos,educacion,estado_civil,hijos,created_at
+41,Rosa Martínez,34,F,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,2,2025-07-09T23:39:05.925013
+45,Jorge Sánchez,27,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,2,2025-07-09T23:39:05.925383
+29,Ana García,34,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Conviviente,0,2025-07-09T23:39:05.923911
+9,Teresa Rodríguez,32,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Conviviente,0,2025-07-09T23:39:05.921754
+34,Roberto Rodríguez,27,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,2,2025-07-09T23:39:05.924368
+12,Roberto Sánchez,25,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-09T23:39:05.922023
+30,Lucía Sánchez,33,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,0,2025-07-09T23:39:05.924002
+46,Jorge González,33,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,2,2025-07-09T23:39:05.925473
+39,Elena García,31,F,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-09T23:39:05.924829
+17,Elena González,33,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,1,2025-07-09T23:39:05.922628
+25,Carmen García,32,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-09T23:39:05.923538
+36,Manuel Sánchez,25,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,1,2025-07-09T23:39:05.924544
+13,Miguel Pérez,27,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-09T23:39:05.922143
+4,Lucía López,31,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Soltero,2,2025-07-09T23:39:05.921182
+44,Fernando Sánchez,31,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,0,2025-07-09T23:39:05.925294
+5,Jorge Sánchez,25,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,0,2025-07-09T23:39:05.921282
+11,José Sánchez,32,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Conviviente,1,2025-07-09T23:39:05.921932
+24,José González,31,M,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-09T23:39:05.923446
+18,Carlos Flores,33,M,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Conviviente,1,2025-07-09T23:39:05.922731
+35,Teresa González,29,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,1,2025-07-09T23:39:05.924461
+19,Sandra Rodríguez,31,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-09T23:39:05.922897
+2,Ricardo Torres,31,M,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-09T23:39:05.920886
+31,Miguel Rodríguez,33,M,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-09T23:39:05.924092
+8,Elena González,33,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,2,2025-07-09T23:39:05.921669
+47,Sandra García,31,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,2,2025-07-09T23:39:05.925562
+26,Ana Rodríguez,31,F,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-09T23:39:05.923631
+28,Miguel Sánchez,30,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,2,2025-07-09T23:39:05.923810
+15,Jorge Rodríguez,29,M,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,0,2025-07-09T23:39:05.922389
+21,Carlos Ramírez,27,M,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,1,2025-07-09T23:39:05.923133
+27,Pedro Torres,34,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-09T23:39:05.923719
+16,María González,33,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-09T23:39:05.922523
+6,Pedro Sánchez,34,M,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-09T23:39:05.921442
+37,Fernando López,26,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,0,2025-07-09T23:39:05.924637
+50,Mónica López,25,F,Cusco,Sierra,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-09T23:39:05.925853
+23,Elena González,34,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,1,2025-07-09T23:39:05.923354
+22,Elena Pérez,33,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,2,2025-07-09T23:39:05.923248
+7,José Martínez,27,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-09T23:39:05.921567
+43,Roberto García,26,M,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-09T23:39:05.925204
+33,Pedro Torres,34,M,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,1,2025-07-09T23:39:05.924274
+42,Mónica Pérez,32,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Soltero,0,2025-07-09T23:39:05.925104
+3,José Pérez,34,M,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-09T23:39:05.921051
+14,Patricia López,27,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,0,2025-07-09T23:39:05.922283
+10,Rosa Torres,26,F,Callao,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Conviviente,2,2025-07-09T23:39:05.921849
+1,Teresa Pérez,26,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-09T23:39:05.920766
+32,Patricia Torres,32,F,Callao,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-09T23:39:05.924183
+48,Ana Sánchez,39,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Técnica completa,Divorciado,2,2025-07-09T23:39:05.925658
+20,María Ramírez,28,F,Lima,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,1,2025-07-09T23:39:05.922995
+40,Carmen Ramírez,27,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-09T23:39:05.924921
+49,Luis López,54,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Casado,2,2025-07-09T23:39:05.925760
+38,Pedro González,34,M,Callao,Lima,C,Empleado,"S/ 2,000 - S/ 4,000",Superior incompleta,Conviviente,0,2025-07-09T23:39:05.924731

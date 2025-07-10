@@ -1,0 +1,1083 @@
+{
+  "summary": {
+    "total_responses": 50,
+    "response_date": "2025-07-10T12:44:10.124573",
+    "sample_composition": {
+      "nse_distribution": {
+        "C": 50
+      },
+      "region_distribution": {
+        "Lima": 49,
+        "Sierra": 1
+      },
+      "gender_distribution": {
+        "M": 26,
+        "F": 24
+      },
+      "age_stats": {
+        "mean": 29.34,
+        "median": 28.0,
+        "std": 4.6887185490977235
+      }
+    },
+    "data_quality": {
+      "completion_rate": 1.0,
+      "average_confidence": 0.78414
+    }
+  },
+  "demographic_analysis": {
+    "by_nse": {
+      "distribution": {
+        "C": 50
+      },
+      "percentage": {
+        "C": 1.0
+      },
+      "intent_voto_respuesta_by_nse": {
+        "Candidato A": {
+          "C": 9
+        },
+        "Candidato B": {
+          "C": 12
+        },
+        "Candidato C": {
+          "C": 7
+        },
+        "No sabe/No opina": {
+          "C": 6
+        },
+        "No votaría": {
+          "C": 7
+        },
+        "Voto en blanco": {
+          "C": 9
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_nse": {
+        "1": {
+          "C": 3
+        },
+        "2": {
+          "C": 7
+        },
+        "3": {
+          "C": 19
+        },
+        "6": {
+          "C": 6
+        },
+        "7": {
+          "C": 4
+        },
+        "9": {
+          "C": 2
+        },
+        "10": {
+          "C": 9
+        }
+      },
+      "principal_problema_respuesta_by_nse": {
+        "Corrupción": {
+          "C": 8
+        },
+        "Desempleo": {
+          "C": 2
+        },
+        "Economía": {
+          "C": 9
+        },
+        "Educación": {
+          "C": 15
+        },
+        "Salud": {
+          "C": 9
+        },
+        "Seguridad ciudadana": {
+          "C": 7
+        }
+      }
+    },
+    "by_region": {
+      "distribution": {
+        "Lima": 49,
+        "Sierra": 1
+      },
+      "percentage": {
+        "Lima": 0.98,
+        "Sierra": 0.02
+      },
+      "intent_voto_respuesta_by_region": {
+        "Candidato A": {
+          "Lima": 9,
+          "Sierra": 0
+        },
+        "Candidato B": {
+          "Lima": 12,
+          "Sierra": 0
+        },
+        "Candidato C": {
+          "Lima": 7,
+          "Sierra": 0
+        },
+        "No sabe/No opina": {
+          "Lima": 6,
+          "Sierra": 0
+        },
+        "No votaría": {
+          "Lima": 7,
+          "Sierra": 0
+        },
+        "Voto en blanco": {
+          "Lima": 8,
+          "Sierra": 1
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_region": {
+        "1": {
+          "Lima": 3,
+          "Sierra": 0
+        },
+        "2": {
+          "Lima": 7,
+          "Sierra": 0
+        },
+        "3": {
+          "Lima": 18,
+          "Sierra": 1
+        },
+        "6": {
+          "Lima": 6,
+          "Sierra": 0
+        },
+        "7": {
+          "Lima": 4,
+          "Sierra": 0
+        },
+        "9": {
+          "Lima": 2,
+          "Sierra": 0
+        },
+        "10": {
+          "Lima": 9,
+          "Sierra": 0
+        }
+      },
+      "principal_problema_respuesta_by_region": {
+        "Corrupción": {
+          "Lima": 8,
+          "Sierra": 0
+        },
+        "Desempleo": {
+          "Lima": 1,
+          "Sierra": 1
+        },
+        "Economía": {
+          "Lima": 9,
+          "Sierra": 0
+        },
+        "Educación": {
+          "Lima": 15,
+          "Sierra": 0
+        },
+        "Salud": {
+          "Lima": 9,
+          "Sierra": 0
+        },
+        "Seguridad ciudadana": {
+          "Lima": 7,
+          "Sierra": 0
+        }
+      }
+    },
+    "by_age_group": {
+      "distribution": {
+        "18-29": 34,
+        "30-44": 15,
+        "45-59": 1,
+        "60+": 0
+      },
+      "percentage": {
+        "18-29": 0.68,
+        "30-44": 0.3,
+        "45-59": 0.02,
+        "60+": 0.0
+      },
+      "intent_voto_respuesta_by_grupo_edad": {
+        "Candidato A": {
+          "18-29": 6,
+          "30-44": 3,
+          "45-59": 0
+        },
+        "Candidato B": {
+          "18-29": 7,
+          "30-44": 5,
+          "45-59": 0
+        },
+        "Candidato C": {
+          "18-29": 6,
+          "30-44": 1,
+          "45-59": 0
+        },
+        "No sabe/No opina": {
+          "18-29": 4,
+          "30-44": 2,
+          "45-59": 0
+        },
+        "No votaría": {
+          "18-29": 6,
+          "30-44": 0,
+          "45-59": 1
+        },
+        "Voto en blanco": {
+          "18-29": 5,
+          "30-44": 4,
+          "45-59": 0
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_grupo_edad": {
+        "1": {
+          "18-29": 3,
+          "30-44": 0,
+          "45-59": 0
+        },
+        "2": {
+          "18-29": 7,
+          "30-44": 0,
+          "45-59": 0
+        },
+        "3": {
+          "18-29": 15,
+          "30-44": 4,
+          "45-59": 0
+        },
+        "6": {
+          "18-29": 5,
+          "30-44": 0,
+          "45-59": 1
+        },
+        "7": {
+          "18-29": 4,
+          "30-44": 0,
+          "45-59": 0
+        },
+        "9": {
+          "18-29": 0,
+          "30-44": 2,
+          "45-59": 0
+        },
+        "10": {
+          "18-29": 0,
+          "30-44": 9,
+          "45-59": 0
+        }
+      },
+      "principal_problema_respuesta_by_grupo_edad": {
+        "Corrupción": {
+          "18-29": 4,
+          "30-44": 4,
+          "45-59": 0
+        },
+        "Desempleo": {
+          "18-29": 1,
+          "30-44": 1,
+          "45-59": 0
+        },
+        "Economía": {
+          "18-29": 8,
+          "30-44": 1,
+          "45-59": 0
+        },
+        "Educación": {
+          "18-29": 10,
+          "30-44": 5,
+          "45-59": 0
+        },
+        "Salud": {
+          "18-29": 5,
+          "30-44": 3,
+          "45-59": 1
+        },
+        "Seguridad ciudadana": {
+          "18-29": 6,
+          "30-44": 1,
+          "45-59": 0
+        }
+      }
+    },
+    "cross_tabs": {
+      "nse_region": {
+        "Lima": {
+          "C": 49
+        },
+        "Sierra": {
+          "C": 1
+        }
+      },
+      "nse_edad": {
+        "18-29": {
+          "C": 34
+        },
+        "30-44": {
+          "C": 15
+        },
+        "45-59": {
+          "C": 1
+        }
+      }
+    }
+  },
+  "electoral_analysis": {
+    "intencion_voto": {
+      "total_distribution": {
+        "Candidato B": 12,
+        "Candidato A": 9,
+        "Voto en blanco": 9,
+        "Candidato C": 7,
+        "No votaría": 7,
+        "No sabe/No opina": 6
+      },
+      "by_nse": {
+        "Candidato A": {
+          "C": 9
+        },
+        "Candidato B": {
+          "C": 12
+        },
+        "Candidato C": {
+          "C": 7
+        },
+        "No sabe/No opina": {
+          "C": 6
+        },
+        "No votaría": {
+          "C": 7
+        },
+        "Voto en blanco": {
+          "C": 9
+        }
+      },
+      "by_region": {
+        "Candidato A": {
+          "Lima": 9,
+          "Sierra": 0
+        },
+        "Candidato B": {
+          "Lima": 12,
+          "Sierra": 0
+        },
+        "Candidato C": {
+          "Lima": 7,
+          "Sierra": 0
+        },
+        "No sabe/No opina": {
+          "Lima": 6,
+          "Sierra": 0
+        },
+        "No votaría": {
+          "Lima": 7,
+          "Sierra": 0
+        },
+        "Voto en blanco": {
+          "Lima": 8,
+          "Sierra": 1
+        }
+      }
+    },
+    "aprobacion_gobierno": {
+      "average_score": 4.92,
+      "median_score": 3.0,
+      "std_deviation": 3.0828028593128938,
+      "distribution": {
+        "3": 19,
+        "10": 9,
+        "2": 7,
+        "6": 6,
+        "7": 4,
+        "1": 3,
+        "9": 2
+      },
+      "by_nse": {
+        "C": 4.92
+      }
+    },
+    "principales_problemas": {
+      "ranking": {
+        "Educación": 15,
+        "Salud": 9,
+        "Economía": 9,
+        "Corrupción": 8,
+        "Seguridad ciudadana": 7,
+        "Desempleo": 2
+      },
+      "by_nse": {
+        "Corrupción": {
+          "C": 8
+        },
+        "Desempleo": {
+          "C": 2
+        },
+        "Economía": {
+          "C": 9
+        },
+        "Educación": {
+          "C": 15
+        },
+        "Salud": {
+          "C": 9
+        },
+        "Seguridad ciudadana": {
+          "C": 7
+        }
+      },
+      "by_region": {
+        "Corrupción": {
+          "Lima": 8,
+          "Sierra": 0
+        },
+        "Desempleo": {
+          "Lima": 1,
+          "Sierra": 1
+        },
+        "Economía": {
+          "Lima": 9,
+          "Sierra": 0
+        },
+        "Educación": {
+          "Lima": 15,
+          "Sierra": 0
+        },
+        "Salud": {
+          "Lima": 9,
+          "Sierra": 0
+        },
+        "Seguridad ciudadana": {
+          "Lima": 7,
+          "Sierra": 0
+        }
+      }
+    },
+    "confianza_institucional": {
+      "average_trust": 4.6,
+      "median_trust": 4.0,
+      "low_trust_percentage": 0.4,
+      "high_trust_percentage": 0.26
+    }
+  },
+  "statistical_tests": {
+    "voto_por_nse": {
+      "chi2_statistic": 0.0,
+      "p_value": 1.0,
+      "degrees_of_freedom": 0,
+      "cramers_v": NaN,
+      "significant": false,
+      "contingency_table": {
+        "C": {
+          "Candidato A": 9,
+          "Candidato B": 12,
+          "Candidato C": 7,
+          "No sabe/No opina": 6,
+          "No votaría": 7,
+          "Voto en blanco": 9
+        }
+      }
+    },
+    "correlations": {
+      "correlation_matrix": {
+        "id": {
+          "id": 1.0,
+          "edad": 0.2900768653677423,
+          "intent_voto_confianza": 0.17195608634440832,
+          "aprobacion_gobierno_respuesta": 0.0681192658450579,
+          "aprobacion_gobierno_confianza": -0.18240434378195625,
+          "principal_problema_confianza": 0.286054852206654,
+          "confianza_instituciones_respuesta": -0.15338550842553633,
+          "confianza_instituciones_confianza": -0.012051719813513906,
+          "expectativa_economia_confianza": 0.13562533389686646,
+          "prioridad_gobierno_confianza": 0.1278770903211264,
+          "reforma_constitucional_confianza": -0.049127509162925596,
+          "descentralizacion_confianza": 0.11976506697749612,
+          "medios_informacion_confianza": -0.3293052734840086,
+          "participacion_electoral_respuesta": 0.08799258146681196,
+          "participacion_electoral_confianza": -0.07817414453947391
+        },
+        "edad": {
+          "id": 0.2900768653677423,
+          "edad": 1.0,
+          "intent_voto_confianza": -0.16342649396878958,
+          "aprobacion_gobierno_respuesta": 0.3718380393136437,
+          "aprobacion_gobierno_confianza": -0.01299348029116156,
+          "principal_problema_confianza": -0.08710608602737537,
+          "confianza_instituciones_respuesta": 0.267947273651219,
+          "confianza_instituciones_confianza": 0.10501761298033012,
+          "expectativa_economia_confianza": 0.03353551980962104,
+          "prioridad_gobierno_confianza": 0.011060591266180775,
+          "reforma_constitucional_confianza": -0.23782886520488175,
+          "descentralizacion_confianza": -0.03820670910774184,
+          "medios_informacion_confianza": 0.027673725980859203,
+          "participacion_electoral_respuesta": 0.45560909115168213,
+          "participacion_electoral_confianza": -0.08556091684053053
+        },
+        "intent_voto_confianza": {
+          "id": 0.17195608634440832,
+          "edad": -0.16342649396878958,
+          "intent_voto_confianza": 1.0,
+          "aprobacion_gobierno_respuesta": -0.15684496789138128,
+          "aprobacion_gobierno_confianza": -0.050998546697334446,
+          "principal_problema_confianza": -0.09885192672095196,
+          "confianza_instituciones_respuesta": -0.09813653410445256,
+          "confianza_instituciones_confianza": -0.2378748763684181,
+          "expectativa_economia_confianza": -0.09526604002161487,
+          "prioridad_gobierno_confianza": 0.1432977492870822,
+          "reforma_constitucional_confianza": 0.17189177486855328,
+          "descentralizacion_confianza": -0.11116844342836814,
+          "medios_informacion_confianza": -0.4128643610396445,
+          "participacion_electoral_respuesta": -0.06973233997599056,
+          "participacion_electoral_confianza": -0.07317433783846522
+        },
+        "aprobacion_gobierno_respuesta": {
+          "id": 0.0681192658450579,
+          "edad": 0.3718380393136437,
+          "intent_voto_confianza": -0.15684496789138128,
+          "aprobacion_gobierno_respuesta": 1.0,
+          "aprobacion_gobierno_confianza": 0.10326202845558266,
+          "principal_problema_confianza": -0.05588159878056562,
+          "confianza_instituciones_respuesta": 0.5335492631688239,
+          "confianza_instituciones_confianza": -0.002798614262759166,
+          "expectativa_economia_confianza": -0.11180385283412764,
+          "prioridad_gobierno_confianza": -0.009562672100994141,
+          "reforma_constitucional_confianza": 0.008454274269633846,
+          "descentralizacion_confianza": 0.029345232321706424,
+          "medios_informacion_confianza": 0.16078226949939278,
+          "participacion_electoral_respuesta": 0.4646911930290504,
+          "participacion_electoral_confianza": 0.19087048035439788
+        },
+        "aprobacion_gobierno_confianza": {
+          "id": -0.18240434378195625,
+          "edad": -0.01299348029116156,
+          "intent_voto_confianza": -0.050998546697334446,
+          "aprobacion_gobierno_respuesta": 0.10326202845558266,
+          "aprobacion_gobierno_confianza": 1.0,
+          "principal_problema_confianza": -0.0954857142664657,
+          "confianza_instituciones_respuesta": 0.16873051174826503,
+          "confianza_instituciones_confianza": -0.20484065600887583,
+          "expectativa_economia_confianza": -0.032116729049849746,
+          "prioridad_gobierno_confianza": -0.08557190546896844,
+          "reforma_constitucional_confianza": -0.03028620769706132,
+          "descentralizacion_confianza": 0.1260418384299983,
+          "medios_informacion_confianza": 0.1261571118615897,
+          "participacion_electoral_respuesta": 0.07919274134582772,
+          "participacion_electoral_confianza": 0.14952330665574273
+        },
+        "principal_problema_confianza": {
+          "id": 0.286054852206654,
+          "edad": -0.08710608602737537,
+          "intent_voto_confianza": -0.09885192672095196,
+          "aprobacion_gobierno_respuesta": -0.05588159878056562,
+          "aprobacion_gobierno_confianza": -0.0954857142664657,
+          "principal_problema_confianza": 1.0,
+          "confianza_instituciones_respuesta": 0.02561747597136285,
+          "confianza_instituciones_confianza": 0.03434352355011528,
+          "expectativa_economia_confianza": 0.12848566714889323,
+          "prioridad_gobierno_confianza": 0.08311161425784161,
+          "reforma_constitucional_confianza": 0.21881775102033757,
+          "descentralizacion_confianza": -0.1194629190390687,
+          "medios_informacion_confianza": -0.0713718908397899,
+          "participacion_electoral_respuesta": -0.27220663641450665,
+          "participacion_electoral_confianza": -0.008176540525041241
+        },
+        "confianza_instituciones_respuesta": {
+          "id": -0.15338550842553633,
+          "edad": 0.267947273651219,
+          "intent_voto_confianza": -0.09813653410445256,
+          "aprobacion_gobierno_respuesta": 0.5335492631688239,
+          "aprobacion_gobierno_confianza": 0.16873051174826503,
+          "principal_problema_confianza": 0.02561747597136285,
+          "confianza_instituciones_respuesta": 1.0,
+          "confianza_instituciones_confianza": -0.08325765801512207,
+          "expectativa_economia_confianza": -0.26935392165834415,
+          "prioridad_gobierno_confianza": -0.01036479934638936,
+          "reforma_constitucional_confianza": 0.06441768467898756,
+          "descentralizacion_confianza": 0.056243136460854624,
+          "medios_informacion_confianza": -0.003924941895042924,
+          "participacion_electoral_respuesta": 0.04184673737972696,
+          "participacion_electoral_confianza": 0.15746931169023037
+        },
+        "confianza_instituciones_confianza": {
+          "id": -0.012051719813513906,
+          "edad": 0.10501761298033012,
+          "intent_voto_confianza": -0.2378748763684181,
+          "aprobacion_gobierno_respuesta": -0.002798614262759166,
+          "aprobacion_gobierno_confianza": -0.20484065600887583,
+          "principal_problema_confianza": 0.03434352355011528,
+          "confianza_instituciones_respuesta": -0.08325765801512207,
+          "confianza_instituciones_confianza": 1.0,
+          "expectativa_economia_confianza": 0.23324298143636546,
+          "prioridad_gobierno_confianza": -0.11566075736658836,
+          "reforma_constitucional_confianza": -0.08633198474341212,
+          "descentralizacion_confianza": 0.060622866515051006,
+          "medios_informacion_confianza": 0.0018564366487499309,
+          "participacion_electoral_respuesta": 0.06571576041219383,
+          "participacion_electoral_confianza": -0.23122352366848656
+        },
+        "expectativa_economia_confianza": {
+          "id": 0.13562533389686646,
+          "edad": 0.03353551980962104,
+          "intent_voto_confianza": -0.09526604002161487,
+          "aprobacion_gobierno_respuesta": -0.11180385283412764,
+          "aprobacion_gobierno_confianza": -0.032116729049849746,
+          "principal_problema_confianza": 0.12848566714889323,
+          "confianza_instituciones_respuesta": -0.26935392165834415,
+          "confianza_instituciones_confianza": 0.23324298143636546,
+          "expectativa_economia_confianza": 1.0,
+          "prioridad_gobierno_confianza": 0.09608138384046995,
+          "reforma_constitucional_confianza": 0.08614342580760993,
+          "descentralizacion_confianza": 0.009796578234552558,
+          "medios_informacion_confianza": -0.1741534244446321,
+          "participacion_electoral_respuesta": -0.060069075379797686,
+          "participacion_electoral_confianza": -0.15020601185842195
+        },
+        "prioridad_gobierno_confianza": {
+          "id": 0.1278770903211264,
+          "edad": 0.011060591266180775,
+          "intent_voto_confianza": 0.1432977492870822,
+          "aprobacion_gobierno_respuesta": -0.009562672100994141,
+          "aprobacion_gobierno_confianza": -0.08557190546896844,
+          "principal_problema_confianza": 0.08311161425784161,
+          "confianza_instituciones_respuesta": -0.01036479934638936,
+          "confianza_instituciones_confianza": -0.11566075736658836,
+          "expectativa_economia_confianza": 0.09608138384046995,
+          "prioridad_gobierno_confianza": 1.0,
+          "reforma_constitucional_confianza": 0.04909856415202687,
+          "descentralizacion_confianza": -0.05154877258859236,
+          "medios_informacion_confianza": -0.10460961693497939,
+          "participacion_electoral_respuesta": 0.08735649054425965,
+          "participacion_electoral_confianza": 0.03602404571132789
+        },
+        "reforma_constitucional_confianza": {
+          "id": -0.049127509162925596,
+          "edad": -0.23782886520488175,
+          "intent_voto_confianza": 0.17189177486855328,
+          "aprobacion_gobierno_respuesta": 0.008454274269633846,
+          "aprobacion_gobierno_confianza": -0.03028620769706132,
+          "principal_problema_confianza": 0.21881775102033757,
+          "confianza_instituciones_respuesta": 0.06441768467898756,
+          "confianza_instituciones_confianza": -0.08633198474341212,
+          "expectativa_economia_confianza": 0.08614342580760993,
+          "prioridad_gobierno_confianza": 0.04909856415202687,
+          "reforma_constitucional_confianza": 1.0,
+          "descentralizacion_confianza": -0.31148981053406277,
+          "medios_informacion_confianza": -0.09101281033502698,
+          "participacion_electoral_respuesta": -0.14547877197437176,
+          "participacion_electoral_confianza": 0.16563420687390493
+        },
+        "descentralizacion_confianza": {
+          "id": 0.11976506697749612,
+          "edad": -0.03820670910774184,
+          "intent_voto_confianza": -0.11116844342836814,
+          "aprobacion_gobierno_respuesta": 0.029345232321706424,
+          "aprobacion_gobierno_confianza": 0.1260418384299983,
+          "principal_problema_confianza": -0.1194629190390687,
+          "confianza_instituciones_respuesta": 0.056243136460854624,
+          "confianza_instituciones_confianza": 0.060622866515051006,
+          "expectativa_economia_confianza": 0.009796578234552558,
+          "prioridad_gobierno_confianza": -0.05154877258859236,
+          "reforma_constitucional_confianza": -0.31148981053406277,
+          "descentralizacion_confianza": 1.0,
+          "medios_informacion_confianza": 0.25605607201927477,
+          "participacion_electoral_respuesta": 0.07554813434728518,
+          "participacion_electoral_confianza": -0.027150866799590886
+        },
+        "medios_informacion_confianza": {
+          "id": -0.3293052734840086,
+          "edad": 0.027673725980859203,
+          "intent_voto_confianza": -0.4128643610396445,
+          "aprobacion_gobierno_respuesta": 0.16078226949939278,
+          "aprobacion_gobierno_confianza": 0.1261571118615897,
+          "principal_problema_confianza": -0.0713718908397899,
+          "confianza_instituciones_respuesta": -0.003924941895042924,
+          "confianza_instituciones_confianza": 0.0018564366487499309,
+          "expectativa_economia_confianza": -0.1741534244446321,
+          "prioridad_gobierno_confianza": -0.10460961693497939,
+          "reforma_constitucional_confianza": -0.09101281033502698,
+          "descentralizacion_confianza": 0.25605607201927477,
+          "medios_informacion_confianza": 1.0,
+          "participacion_electoral_respuesta": 0.1844651673738643,
+          "participacion_electoral_confianza": 0.2785975355903911
+        },
+        "participacion_electoral_respuesta": {
+          "id": 0.08799258146681196,
+          "edad": 0.45560909115168213,
+          "intent_voto_confianza": -0.06973233997599056,
+          "aprobacion_gobierno_respuesta": 0.4646911930290504,
+          "aprobacion_gobierno_confianza": 0.07919274134582772,
+          "principal_problema_confianza": -0.27220663641450665,
+          "confianza_instituciones_respuesta": 0.04184673737972696,
+          "confianza_instituciones_confianza": 0.06571576041219383,
+          "expectativa_economia_confianza": -0.060069075379797686,
+          "prioridad_gobierno_confianza": 0.08735649054425965,
+          "reforma_constitucional_confianza": -0.14547877197437176,
+          "descentralizacion_confianza": 0.07554813434728518,
+          "medios_informacion_confianza": 0.1844651673738643,
+          "participacion_electoral_respuesta": 1.0,
+          "participacion_electoral_confianza": -0.1613612263270418
+        },
+        "participacion_electoral_confianza": {
+          "id": -0.07817414453947391,
+          "edad": -0.08556091684053053,
+          "intent_voto_confianza": -0.07317433783846522,
+          "aprobacion_gobierno_respuesta": 0.19087048035439788,
+          "aprobacion_gobierno_confianza": 0.14952330665574273,
+          "principal_problema_confianza": -0.008176540525041241,
+          "confianza_instituciones_respuesta": 0.15746931169023037,
+          "confianza_instituciones_confianza": -0.23122352366848656,
+          "expectativa_economia_confianza": -0.15020601185842195,
+          "prioridad_gobierno_confianza": 0.03602404571132789,
+          "reforma_constitucional_confianza": 0.16563420687390493,
+          "descentralizacion_confianza": -0.027150866799590886,
+          "medios_informacion_confianza": 0.2785975355903911,
+          "participacion_electoral_respuesta": -0.1613612263270418,
+          "participacion_electoral_confianza": 1.0
+        }
+      },
+      "p_values": {
+        "id": {
+          "id": 0.0,
+          "edad": 0.04100883438262637,
+          "intent_voto_confianza": 0.23244737795228504,
+          "aprobacion_gobierno_respuesta": 0.6383267162719873,
+          "aprobacion_gobierno_confianza": 0.20485562136454555,
+          "principal_problema_confianza": 0.04402515577286281,
+          "confianza_instituciones_respuesta": 0.28756633585559177,
+          "confianza_instituciones_confianza": 0.9337990059049937,
+          "expectativa_economia_confianza": 0.3476750161241793,
+          "prioridad_gobierno_confianza": 0.37615759905360036,
+          "reforma_constitucional_confianza": 0.7347586714312917,
+          "descentralizacion_confianza": 0.4074241502331924,
+          "medios_informacion_confianza": 0.01953334402451369,
+          "participacion_electoral_respuesta": 0.5434231160327567,
+          "participacion_electoral_confianza": 0.5894588557374324
+        },
+        "edad": {
+          "id": 0.04100883438262637,
+          "edad": 0.0,
+          "intent_voto_confianza": 0.25678797488593635,
+          "aprobacion_gobierno_respuesta": 0.007840329311172723,
+          "aprobacion_gobierno_confianza": 0.9286387397363441,
+          "principal_problema_confianza": 0.547507412209515,
+          "confianza_instituciones_respuesta": 0.05992923928573977,
+          "confianza_instituciones_confianza": 0.46795207526659266,
+          "expectativa_economia_confianza": 0.8171600828966762,
+          "prioridad_gobierno_confianza": 0.9392326855302671,
+          "reforma_constitucional_confianza": 0.09628692478318959,
+          "descentralizacion_confianza": 0.7922228646183151,
+          "medios_informacion_confianza": 0.8487058932109952,
+          "participacion_electoral_respuesta": 0.0008847835236825928,
+          "participacion_electoral_confianza": 0.5546613258055315
+        },
+        "intent_voto_confianza": {
+          "id": 0.23244737795228504,
+          "edad": 0.25678797488593635,
+          "intent_voto_confianza": 0.0,
+          "aprobacion_gobierno_respuesta": 0.2767012744773919,
+          "aprobacion_gobierno_confianza": 0.7250465872053563,
+          "principal_problema_confianza": 0.49461635166488693,
+          "confianza_instituciones_respuesta": 0.4977602449021141,
+          "confianza_instituciones_confianza": 0.09622063484500096,
+          "expectativa_economia_confianza": 0.510477858530128,
+          "prioridad_gobierno_confianza": 0.3208194924002058,
+          "reforma_constitucional_confianza": 0.2326247517544643,
+          "descentralizacion_confianza": 0.4421401543596165,
+          "medios_informacion_confianza": 0.00288507356581009,
+          "participacion_electoral_respuesta": 0.6303764057163292,
+          "participacion_electoral_confianza": 0.6135507225872052
+        },
+        "aprobacion_gobierno_respuesta": {
+          "id": 0.6383267162719873,
+          "edad": 0.007840329311172723,
+          "intent_voto_confianza": 0.2767012744773919,
+          "aprobacion_gobierno_respuesta": 0.0,
+          "aprobacion_gobierno_confianza": 0.4754648147000614,
+          "principal_problema_confianza": 0.6999042474303053,
+          "confianza_instituciones_respuesta": 6.611493563224556e-05,
+          "confianza_instituciones_confianza": 0.9846108065561336,
+          "expectativa_economia_confianza": 0.4395194242208912,
+          "prioridad_gobierno_confianza": 0.9474498740616669,
+          "reforma_constitucional_confianza": 0.9535337856454558,
+          "descentralizacion_confianza": 0.839684313362143,
+          "medios_informacion_confianza": 0.2646693984413252,
+          "participacion_electoral_respuesta": 0.0006744790353946291,
+          "participacion_electoral_confianza": 0.18425540580956296
+        },
+        "aprobacion_gobierno_confianza": {
+          "id": 0.20485562136454555,
+          "edad": 0.9286387397363441,
+          "intent_voto_confianza": 0.7250465872053563,
+          "aprobacion_gobierno_respuesta": 0.4754648147000614,
+          "aprobacion_gobierno_confianza": 0.0,
+          "principal_problema_confianza": 0.5094988223027057,
+          "confianza_instituciones_respuesta": 0.2414584787620048,
+          "confianza_instituciones_confianza": 0.15358310605602143,
+          "expectativa_economia_confianza": 0.8247711648231583,
+          "prioridad_gobierno_confianza": 0.5546102941766509,
+          "reforma_constitucional_confianza": 0.8346144914695003,
+          "descentralizacion_confianza": 0.38310265847681246,
+          "medios_informacion_confianza": 0.3826642090512895,
+          "participacion_electoral_respuesta": 0.5846029861866257,
+          "participacion_electoral_confianza": 0.30002118943011
+        },
+        "principal_problema_confianza": {
+          "id": 0.04402515577286281,
+          "edad": 0.547507412209515,
+          "intent_voto_confianza": 0.49461635166488693,
+          "aprobacion_gobierno_respuesta": 0.6999042474303053,
+          "aprobacion_gobierno_confianza": 0.5094988223027057,
+          "principal_problema_confianza": 0.0,
+          "confianza_instituciones_respuesta": 0.8598303027902368,
+          "confianza_instituciones_confianza": 0.8128329609260476,
+          "expectativa_economia_confianza": 0.373871311834423,
+          "prioridad_gobierno_confianza": 0.5660911044332302,
+          "reforma_constitucional_confianza": 0.12683348184940327,
+          "descentralizacion_confianza": 0.40861696175210327,
+          "medios_informacion_confianza": 0.6223378550876273,
+          "participacion_electoral_respuesta": 0.055825807811244285,
+          "participacion_electoral_confianza": 0.955058669518219
+        },
+        "confianza_instituciones_respuesta": {
+          "id": 0.28756633585559177,
+          "edad": 0.05992923928573977,
+          "intent_voto_confianza": 0.4977602449021141,
+          "aprobacion_gobierno_respuesta": 6.611493563224556e-05,
+          "aprobacion_gobierno_confianza": 0.2414584787620048,
+          "principal_problema_confianza": 0.8598303027902368,
+          "confianza_instituciones_respuesta": 0.0,
+          "confianza_instituciones_confianza": 0.5654065271587951,
+          "expectativa_economia_confianza": 0.05854812940876934,
+          "prioridad_gobierno_confianza": 0.9430488886085207,
+          "reforma_constitucional_confianza": 0.6567223405751788,
+          "descentralizacion_confianza": 0.6980549433758837,
+          "medios_informacion_confianza": 0.97841853936733,
+          "participacion_electoral_respuesta": 0.7729308691531188,
+          "participacion_electoral_confianza": 0.27476966814809056
+        },
+        "confianza_instituciones_confianza": {
+          "id": 0.9337990059049937,
+          "edad": 0.46795207526659266,
+          "intent_voto_confianza": 0.09622063484500096,
+          "aprobacion_gobierno_respuesta": 0.9846108065561336,
+          "aprobacion_gobierno_confianza": 0.15358310605602143,
+          "principal_problema_confianza": 0.8128329609260476,
+          "confianza_instituciones_respuesta": 0.5654065271587951,
+          "confianza_instituciones_confianza": 0.0,
+          "expectativa_economia_confianza": 0.10307329985712696,
+          "prioridad_gobierno_confianza": 0.4237982707995643,
+          "reforma_constitucional_confianza": 0.5510858625164035,
+          "descentralizacion_confianza": 0.6757927244887262,
+          "medios_informacion_confianza": 0.9897913679250804,
+          "participacion_electoral_respuesta": 0.6502476539464562,
+          "participacion_electoral_confianza": 0.10617607430995307
+        },
+        "expectativa_economia_confianza": {
+          "id": 0.3476750161241793,
+          "edad": 0.8171600828966762,
+          "intent_voto_confianza": 0.510477858530128,
+          "aprobacion_gobierno_respuesta": 0.4395194242208912,
+          "aprobacion_gobierno_confianza": 0.8247711648231583,
+          "principal_problema_confianza": 0.373871311834423,
+          "confianza_instituciones_respuesta": 0.05854812940876934,
+          "confianza_instituciones_confianza": 0.10307329985712696,
+          "expectativa_economia_confianza": 0.0,
+          "prioridad_gobierno_confianza": 0.5068488625379635,
+          "reforma_constitucional_confianza": 0.55195920072357,
+          "descentralizacion_confianza": 0.9461663485219857,
+          "medios_informacion_confianza": 0.2264427908325847,
+          "participacion_electoral_respuesta": 0.6785930131745761,
+          "participacion_electoral_confianza": 0.2977946395154773
+        },
+        "prioridad_gobierno_confianza": {
+          "id": 0.37615759905360036,
+          "edad": 0.9392326855302671,
+          "intent_voto_confianza": 0.3208194924002058,
+          "aprobacion_gobierno_respuesta": 0.9474498740616669,
+          "aprobacion_gobierno_confianza": 0.5546102941766509,
+          "principal_problema_confianza": 0.5660911044332302,
+          "confianza_instituciones_respuesta": 0.9430488886085207,
+          "confianza_instituciones_confianza": 0.4237982707995643,
+          "expectativa_economia_confianza": 0.5068488625379635,
+          "prioridad_gobierno_confianza": 0.0,
+          "reforma_constitucional_confianza": 0.734909245325227,
+          "descentralizacion_confianza": 0.7221985559804195,
+          "medios_informacion_confianza": 0.4696923265027583,
+          "participacion_electoral_respuesta": 0.5463522504277054,
+          "participacion_electoral_confianza": 0.803851062013907
+        },
+        "reforma_constitucional_confianza": {
+          "id": 0.7347586714312917,
+          "edad": 0.09628692478318959,
+          "intent_voto_confianza": 0.2326247517544643,
+          "aprobacion_gobierno_respuesta": 0.9535337856454558,
+          "aprobacion_gobierno_confianza": 0.8346144914695003,
+          "principal_problema_confianza": 0.12683348184940327,
+          "confianza_instituciones_respuesta": 0.6567223405751788,
+          "confianza_instituciones_confianza": 0.5510858625164035,
+          "expectativa_economia_confianza": 0.55195920072357,
+          "prioridad_gobierno_confianza": 0.734909245325227,
+          "reforma_constitucional_confianza": 0.0,
+          "descentralizacion_confianza": 0.027668270188957112,
+          "medios_informacion_confianza": 0.5296194576639861,
+          "participacion_electoral_respuesta": 0.31343174935472645,
+          "participacion_electoral_confianza": 0.25032969766606056
+        },
+        "descentralizacion_confianza": {
+          "id": 0.4074241502331924,
+          "edad": 0.7922228646183151,
+          "intent_voto_confianza": 0.4421401543596165,
+          "aprobacion_gobierno_respuesta": 0.839684313362143,
+          "aprobacion_gobierno_confianza": 0.38310265847681246,
+          "principal_problema_confianza": 0.40861696175210327,
+          "confianza_instituciones_respuesta": 0.6980549433758837,
+          "confianza_instituciones_confianza": 0.6757927244887262,
+          "expectativa_economia_confianza": 0.9461663485219857,
+          "prioridad_gobierno_confianza": 0.7221985559804195,
+          "reforma_constitucional_confianza": 0.027668270188957112,
+          "descentralizacion_confianza": 0.0,
+          "medios_informacion_confianza": 0.07267776667440226,
+          "participacion_electoral_respuesta": 0.6020598849631575,
+          "participacion_electoral_confianza": 0.8515319096670959
+        },
+        "medios_informacion_confianza": {
+          "id": 0.01953334402451369,
+          "edad": 0.8487058932109952,
+          "intent_voto_confianza": 0.00288507356581009,
+          "aprobacion_gobierno_respuesta": 0.2646693984413252,
+          "aprobacion_gobierno_confianza": 0.3826642090512895,
+          "principal_problema_confianza": 0.6223378550876273,
+          "confianza_instituciones_respuesta": 0.97841853936733,
+          "confianza_instituciones_confianza": 0.9897913679250804,
+          "expectativa_economia_confianza": 0.2264427908325847,
+          "prioridad_gobierno_confianza": 0.4696923265027583,
+          "reforma_constitucional_confianza": 0.5296194576639861,
+          "descentralizacion_confianza": 0.07267776667440226,
+          "medios_informacion_confianza": 0.0,
+          "participacion_electoral_respuesta": 0.19969797568793848,
+          "participacion_electoral_confianza": 0.05009687726053226
+        },
+        "participacion_electoral_respuesta": {
+          "id": 0.5434231160327567,
+          "edad": 0.0008847835236825928,
+          "intent_voto_confianza": 0.6303764057163292,
+          "aprobacion_gobierno_respuesta": 0.0006744790353946291,
+          "aprobacion_gobierno_confianza": 0.5846029861866257,
+          "principal_problema_confianza": 0.055825807811244285,
+          "confianza_instituciones_respuesta": 0.7729308691531188,
+          "confianza_instituciones_confianza": 0.6502476539464562,
+          "expectativa_economia_confianza": 0.6785930131745761,
+          "prioridad_gobierno_confianza": 0.5463522504277054,
+          "reforma_constitucional_confianza": 0.31343174935472645,
+          "descentralizacion_confianza": 0.6020598849631575,
+          "medios_informacion_confianza": 0.19969797568793848,
+          "participacion_electoral_respuesta": 0.0,
+          "participacion_electoral_confianza": 0.2629300991897511
+        },
+        "participacion_electoral_confianza": {
+          "id": 0.5894588557374324,
+          "edad": 0.5546613258055315,
+          "intent_voto_confianza": 0.6135507225872052,
+          "aprobacion_gobierno_respuesta": 0.18425540580956296,
+          "aprobacion_gobierno_confianza": 0.30002118943011,
+          "principal_problema_confianza": 0.955058669518219,
+          "confianza_instituciones_respuesta": 0.27476966814809056,
+          "confianza_instituciones_confianza": 0.10617607430995307,
+          "expectativa_economia_confianza": 0.2977946395154773,
+          "prioridad_gobierno_confianza": 0.803851062013907,
+          "reforma_constitucional_confianza": 0.25032969766606056,
+          "descentralizacion_confianza": 0.8515319096670959,
+          "medios_informacion_confianza": 0.05009687726053226,
+          "participacion_electoral_respuesta": 0.2629300991897511,
+          "participacion_electoral_confianza": 0.0
+        }
+      },
+      "significant_correlations": [
+        {
+          "variable1": "aprobacion_gobierno_respuesta",
+          "variable2": "confianza_instituciones_respuesta",
+          "correlation": 0.5335492631688239,
+          "p_value": 6.611493563224556e-05,
+          "strength": "Moderada"
+        },
+        {
+          "variable1": "aprobacion_gobierno_respuesta",
+          "variable2": "participacion_electoral_respuesta",
+          "correlation": 0.4646911930290504,
+          "p_value": 0.0006744790353946291,
+          "strength": "Débil"
+        },
+        {
+          "variable1": "edad",
+          "variable2": "participacion_electoral_respuesta",
+          "correlation": 0.45560909115168213,
+          "p_value": 0.0008847835236825928,
+          "strength": "Débil"
+        },
+        {
+          "variable1": "intent_voto_confianza",
+          "variable2": "medios_informacion_confianza",
+          "correlation": -0.4128643610396445,
+          "p_value": 0.00288507356581009,
+          "strength": "Débil"
+        },
+        {
+          "variable1": "edad",
+          "variable2": "aprobacion_gobierno_respuesta",
+          "correlation": 0.3718380393136437,
+          "p_value": 0.007840329311172723,
+          "strength": "Débil"
+        },
+        {
+          "variable1": "id",
+          "variable2": "medios_informacion_confianza",
+          "correlation": -0.3293052734840086,
+          "p_value": 0.01953334402451369,
+          "strength": "Débil"
+        },
+        {
+          "variable1": "reforma_constitucional_confianza",
+          "variable2": "descentralizacion_confianza",
+          "correlation": -0.31148981053406277,
+          "p_value": 0.027668270188957112,
+          "strength": "Débil"
+        },
+        {
+          "variable1": "id",
+          "variable2": "edad",
+          "correlation": 0.2900768653677423,
+          "p_value": 0.04100883438262637,
+          "strength": "Muy débil"
+        },
+        {
+          "variable1": "id",
+          "variable2": "principal_problema_confianza",
+          "correlation": 0.286054852206654,
+          "p_value": 0.04402515577286281,
+          "strength": "Muy débil"
+        }
+      ]
+    },
+    "approval_by_nse": {
+      "error": "Se necesitan al menos 2 grupos",
+      "test": "anova"
+    }
+  },
+  "insights": [
+    "Se generaron 50 respuestas sintéticas representativas",
+    "NSE C representa el 100.0% de la muestra",
+    "'Candidato B' lidera intención de voto con 12 menciones",
+    "'Educación' es el principal problema identificado",
+    "Confianza institucional promedio: 4.6/10"
+  ],
+  "visualizations": [
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/demografia_20250710_124410.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/intencion_voto_20250710_124410.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/principales_problemas_20250710_124410.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/puntuaciones_20250710_124410.png"
+  ]
+}

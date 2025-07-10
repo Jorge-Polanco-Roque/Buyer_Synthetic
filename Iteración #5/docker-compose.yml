@@ -1,0 +1,109 @@
+services:
+  # Main Buyer Synthetic Application
+  buyer-synthetic:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8505:8505"
+    environment:
+      # API Configuration
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DEFAULT_MODEL=${DEFAULT_MODEL:-gpt-4}
+      - TEMPERATURE=${TEMPERATURE:-0.7}
+      - MAX_TOKENS=${MAX_TOKENS:-2000}
+      
+      # Survey Configuration
+      - MIN_SAMPLE_SIZE=${MIN_SAMPLE_SIZE:-100}
+      - MAX_SAMPLE_SIZE=${MAX_SAMPLE_SIZE:-1000}
+      - DEFAULT_SAMPLE_SIZE=${DEFAULT_SAMPLE_SIZE:-300}
+      
+      # LangGraph Configuration
+      - LANGGRAPH_MAX_RETRIES=${LANGGRAPH_MAX_RETRIES:-2}
+      - LANGGRAPH_VALIDATION_THRESHOLD=${LANGGRAPH_VALIDATION_THRESHOLD:-0.7}
+      
+      # Logging
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env:ro
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8505/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    networks:
+      - buyer-network
+
+  # Redis for caching (optional but recommended)
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    networks:
+      - buyer-network
+    command: redis-server --appendonly yes
+
+  # HashiCorp Vault for secrets management
+  vault:
+    image: hashicorp/vault:1.16
+    ports:
+      - "8200:8200"
+    volumes:
+      - vault_data:/vault/data
+      - ./vault/config.hcl:/vault/config/config.hcl:ro
+    environment:
+      - VAULT_ADDR=http://0.0.0.0:8200
+      - VAULT_LOCAL_CONFIG={"backend":{"file":{"path":"/vault/data"}},"listener":{"tcp":{"address":"0.0.0.0:8200","tls_disable":true}},"ui":true}
+    command: vault server -config=/vault/config/config.hcl
+    cap_add:
+      - IPC_LOCK
+    restart: unless-stopped
+    networks:
+      - buyer-network
+    profiles:
+      - vault
+
+  # Development/Testing service
+  buyer-dev:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8506:8505"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - DEFAULT_MODEL=${DEFAULT_MODEL:-gpt-3.5-turbo}
+      - TEMPERATURE=0.9
+      - DEFAULT_SAMPLE_SIZE=50
+      - LOG_LEVEL=DEBUG
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env:ro
+    command: ["python", "-m", "streamlit", "run", "src/ui/dashboard.py", 
+              "--server.address", "0.0.0.0", 
+              "--server.port", "8505",
+              "--server.runOnSave", "true"]
+    restart: unless-stopped
+    networks:
+      - buyer-network
+    profiles:
+      - dev
+
+volumes:
+  redis_data:
+    driver: local
+  vault_data:
+    driver: local
+
+networks:
+  buyer-network:
+    driver: bridge

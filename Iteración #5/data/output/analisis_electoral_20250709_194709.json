@@ -1,0 +1,360 @@
+{
+  "summary": {
+    "total_responses": 10,
+    "response_date": "2025-07-09T19:47:06.615219",
+    "sample_composition": {
+      "nse_distribution": {
+        "C": 4,
+        "D": 2,
+        "E": 2,
+        "B": 1,
+        "A": 1
+      },
+      "region_distribution": {
+        "Lima": 10
+      },
+      "gender_distribution": {
+        "F": 7,
+        "M": 3
+      },
+      "age_stats": {
+        "mean": 30.2,
+        "median": 31.5,
+        "std": 3.2591750830880843
+      }
+    },
+    "data_quality": {
+      "completion_rate": 1.0,
+      "average_confidence": 0.7849999999999999
+    }
+  },
+  "demographic_analysis": {
+    "by_nse": {
+      "distribution": {
+        "C": 4,
+        "D": 2,
+        "E": 2,
+        "B": 1,
+        "A": 1
+      },
+      "percentage": {
+        "C": 0.4,
+        "D": 0.2,
+        "E": 0.2,
+        "B": 0.1,
+        "A": 0.1
+      },
+      "intent_voto_respuesta_by_nse": {
+        "Keiko Fujimori": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 0,
+          "E": 0
+        },
+        "Rafael López Aliaga": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "D": 0,
+          "E": 1
+        },
+        "Verónika Mendoza": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 1,
+          "E": 1
+        },
+        "Voto en blanco": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 1,
+          "E": 0
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_nse": {
+        "3": {
+          "A": 1,
+          "B": 1,
+          "C": 0,
+          "D": 0,
+          "E": 0
+        },
+        "4": {
+          "A": 0,
+          "B": 0,
+          "C": 3,
+          "D": 1,
+          "E": 0
+        },
+        "5": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 1,
+          "E": 0
+        },
+        "6": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 0,
+          "E": 1
+        },
+        "7": {
+          "A": 0,
+          "B": 0,
+          "C": 0,
+          "D": 0,
+          "E": 1
+        }
+      },
+      "principal_problema_respuesta_by_nse": {
+        "Desempleo": {
+          "A": 1,
+          "B": 1,
+          "C": 4,
+          "D": 2,
+          "E": 2
+        }
+      }
+    },
+    "by_region": {
+      "distribution": {
+        "Lima": 10
+      },
+      "percentage": {
+        "Lima": 1.0
+      },
+      "intent_voto_respuesta_by_region": {
+        "Keiko Fujimori": {
+          "Lima": 2
+        },
+        "Rafael López Aliaga": {
+          "Lima": 3
+        },
+        "Verónika Mendoza": {
+          "Lima": 3
+        },
+        "Voto en blanco": {
+          "Lima": 2
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_region": {
+        "3": {
+          "Lima": 2
+        },
+        "4": {
+          "Lima": 4
+        },
+        "5": {
+          "Lima": 1
+        },
+        "6": {
+          "Lima": 2
+        },
+        "7": {
+          "Lima": 1
+        }
+      },
+      "principal_problema_respuesta_by_region": {
+        "Desempleo": {
+          "Lima": 10
+        }
+      }
+    },
+    "by_age_group": {
+      "distribution": {
+        "30-44": 6,
+        "18-29": 4,
+        "45-59": 0,
+        "60+": 0
+      },
+      "percentage": {
+        "30-44": 0.6,
+        "18-29": 0.4,
+        "45-59": 0.0,
+        "60+": 0.0
+      },
+      "intent_voto_respuesta_by_grupo_edad": {
+        "Keiko Fujimori": {
+          "18-29": 0,
+          "30-44": 2
+        },
+        "Rafael López Aliaga": {
+          "18-29": 1,
+          "30-44": 2
+        },
+        "Verónika Mendoza": {
+          "18-29": 2,
+          "30-44": 1
+        },
+        "Voto en blanco": {
+          "18-29": 1,
+          "30-44": 1
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_grupo_edad": {
+        "3": {
+          "18-29": 1,
+          "30-44": 1
+        },
+        "4": {
+          "18-29": 1,
+          "30-44": 3
+        },
+        "5": {
+          "18-29": 1,
+          "30-44": 0
+        },
+        "6": {
+          "18-29": 0,
+          "30-44": 2
+        },
+        "7": {
+          "18-29": 1,
+          "30-44": 0
+        }
+      },
+      "principal_problema_respuesta_by_grupo_edad": {
+        "Desempleo": {
+          "18-29": 4,
+          "30-44": 6
+        }
+      }
+    },
+    "cross_tabs": {
+      "nse_region": {
+        "Lima": {
+          "A": 1,
+          "B": 1,
+          "C": 4,
+          "D": 2,
+          "E": 2
+        }
+      },
+      "nse_edad": {
+        "18-29": {
+          "A": 1,
+          "B": 0,
+          "C": 0,
+          "D": 2,
+          "E": 1
+        },
+        "30-44": {
+          "A": 0,
+          "B": 1,
+          "C": 4,
+          "D": 0,
+          "E": 1
+        }
+      }
+    }
+  },
+  "electoral_analysis": {
+    "intencion_voto": {
+      "total_distribution": {
+        "Verónika Mendoza": 3,
+        "Rafael López Aliaga": 3,
+        "Voto en blanco": 2,
+        "Keiko Fujimori": 2
+      },
+      "by_nse": {
+        "Keiko Fujimori": {
+          "A": 0,
+          "B": 1,
+          "C": 1,
+          "D": 0,
+          "E": 0
+        },
+        "Rafael López Aliaga": {
+          "A": 1,
+          "B": 0,
+          "C": 1,
+          "D": 0,
+          "E": 1
+        },
+        "Verónika Mendoza": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 1,
+          "E": 1
+        },
+        "Voto en blanco": {
+          "A": 0,
+          "B": 0,
+          "C": 1,
+          "D": 1,
+          "E": 0
+        }
+      },
+      "by_region": {
+        "Keiko Fujimori": {
+          "Lima": 2
+        },
+        "Rafael López Aliaga": {
+          "Lima": 3
+        },
+        "Verónika Mendoza": {
+          "Lima": 3
+        },
+        "Voto en blanco": {
+          "Lima": 2
+        }
+      }
+    },
+    "aprobacion_gobierno": {
+      "average_score": 4.6,
+      "median_score": 4.0,
+      "std_deviation": 1.3498971154211057,
+      "distribution": {
+        "4": 4,
+        "6": 2,
+        "3": 2,
+        "5": 1,
+        "7": 1
+      },
+      "by_nse": {
+        "A": 3.0,
+        "B": 3.0,
+        "C": 4.5,
+        "D": 4.5,
+        "E": 6.5
+      }
+    },
+    "principales_problemas": {
+      "ranking": {
+        "Desempleo": 10
+      },
+      "by_nse": {
+        "Desempleo": {
+          "A": 1,
+          "B": 1,
+          "C": 4,
+          "D": 2,
+          "E": 2
+        }
+      },
+      "by_region": {
+        "Desempleo": {
+          "Lima": 10
+        }
+      }
+    },
+    "confianza_institucional": {
+      "average_trust": 4.1,
+      "median_trust": 4.5,
+      "low_trust_percentage": 0.4,
+      "high_trust_percentage": 0.0
+    }
+  },
+  "statistical_tests": {
+    "voto_por_nse": {
+      "chi2_statistic": 10.000000000000002,
+      "p_value": 0.615960654833063,
+      "degrees_of_freedom": 12,
+      "cramers_v": 0.5773502691896258,
+      "significant": 

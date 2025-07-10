@@ -1,0 +1,11 @@
+id,nombre,edad,genero,ciudad,region,nse,ocupacion,educacion,estado_civil,ingresos,intent_voto_respuesta,intent_voto_confianza,aprobacion_gobierno_respuesta,aprobacion_gobierno_confianza,principal_problema_respuesta,principal_problema_confianza,confianza_instituciones_respuesta,confianza_instituciones_confianza,survey_timestamp
+5,Rosa Sánchez,28,F,Callao,Lima,C,Técnico,Secundaria completa,Casado,"S/ 2,000 - S/ 4,000",Verónika Mendoza,0.9099999999999999,6,0.8,Economía,0.9,7,0.6,2025-07-09T19:47:30.402478
+2,Sandra Torres,28,F,Callao,Lima,B,Técnico Especializado,Técnica completa,Soltero,"S/ 4,000 - S/ 10,000",Verónika Mendoza,0.76,6,0.8,Economía,0.9,7,0.6,2025-07-09T19:47:30.403442
+10,Luis García,25,M,Callao,Lima,E,Desempleado,Secundaria incompleta,Soltero,"Menos de S/ 1,000",Rafael López Aliaga,0.82,3,0.8,Economía,0.9,5,0.6,2025-07-09T19:47:30.403517
+9,Miguel Martínez,31,M,Lima,Lima,E,Desempleado,Sin educación formal,Soltero,"Menos de S/ 1,000",Verónika Mendoza,0.76,3,0.8,Salud,0.9,5,0.6,2025-07-09T19:47:30.403580
+4,Mónica Martínez,31,F,Lima,Lima,C,Técnico,Secundaria completa,Casado,"S/ 2,000 - S/ 4,000",Verónika Mendoza,0.8099999999999999,3,0.8,Salud,0.9,7,0.6,2025-07-09T19:47:30.403640
+6,María Flores,32,F,Lima,Lima,C,Empleado,Técnica completa,Casado,"S/ 2,000 - S/ 4,000",Verónika Mendoza,0.76,4,0.8,Salud,0.9,7,0.6,2025-07-09T19:47:30.403696
+3,Jorge González,26,M,Callao,Lima,C,Obrero Calificado,Secundaria completa,Soltero,"S/ 2,000 - S/ 4,000",Rafael López Aliaga,0.97,4,0.8,Economía,0.9,7,0.6,2025-07-09T19:47:30.403751
+8,Miguel Martínez,32,M,Lima,Lima,D,Obrero,Secundaria incompleta,Casado,"S/ 1,000 - S/ 2,000",Verónika Mendoza,0.76,4,0.8,Salud,0.9,3,0.6,2025-07-09T19:47:30.403806
+7,Teresa Ramírez,28,F,Callao,Lima,D,Empleado Básico,Secundaria incompleta,Casado,"S/ 1,000 - S/ 2,000",Verónika Mendoza,0.96,6,0.8,Economía,0.9,3,0.6,2025-07-09T19:47:30.403860
+1,José Rodríguez,26,M,Lima,Lima,A,Director,Postgrado,Conviviente,"S/ 10,000+",Voto en blanco,0.83,4,0.8,Salud,0.9,2,0.6,2025-07-09T19:47:30.403912
