@@ -1,0 +1,39 @@
+1. ¿Cuál es tu opinión sobre la gestión del actual gobierno?
+   Tipo: escala
+   Escala: 1-10
+
+2. ¿Por quién votarías en las próximas elecciones presidenciales?
+   Tipo: multiple
+   Opciones: Keiko Fujimori, Verónika Mendoza, Rafael López Aliaga, George Forsyth, Voto en blanco, No votaría
+
+3. ¿Cuál consideras que es el principal problema del país?
+   Tipo: multiple
+   Opciones: Corrupción, Economía, Seguridad ciudadana, Desempleo, Salud, Educación, Pobreza
+
+4. ¿Qué tan confiado estás en las instituciones del Estado?
+   Tipo: escala
+   Escala: 1-10
+
+5. ¿Cómo calificarías tu situación económica actual?
+   Tipo: multiple
+   Opciones: Muy buena, Buena, Regular, Mala, Muy mala
+
+6. ¿Estás de acuerdo con una nueva Constitución?
+   Tipo: multiple
+   Opciones: Muy de acuerdo, De acuerdo, Neutral, En desacuerdo, Muy en desacuerdo
+
+7. ¿Qué tan importante es para ti la lucha contra la corrupción?
+   Tipo: escala
+   Escala: 1-10
+
+8. ¿Cómo ves el futuro del país en los próximos 5 años?
+   Tipo: multiple
+   Opciones: Muy optimista, Optimista, Neutral, Pesimista, Muy pesimista
+
+9. ¿Cuál debería ser la prioridad del próximo gobierno?
+   Tipo: multiple
+   Opciones: Reactivar la economía, Combatir la corrupción, Mejorar la seguridad, Reformar la salud, Fortalecer la educación
+
+10. ¿Participarías en las próximas elecciones?
+    Tipo: multiple
+    Opciones: Definitivamente sí, Probablemente sí, No estoy seguro, Probablemente no, Definitivamente no

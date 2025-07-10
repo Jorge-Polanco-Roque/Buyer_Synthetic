@@ -1,0 +1,467 @@
+{
+  "summary": {
+    "total_responses": 50,
+    "response_date": "2025-07-09T19:57:50.547242",
+    "sample_composition": {
+      "nse_distribution": {
+        "C": 50
+      },
+      "region_distribution": {
+        "Lima": 49,
+        "Sierra": 1
+      },
+      "gender_distribution": {
+        "F": 26,
+        "M": 24
+      },
+      "age_stats": {
+        "mean": 30.02,
+        "median": 30.0,
+        "std": 4.048128819439361
+      }
+    },
+    "data_quality": {
+      "completion_rate": 1.0,
+      "average_confidence": 0.8367999999999999
+    }
+  },
+  "demographic_analysis": {
+    "by_nse": {
+      "distribution": {
+        "C": 50
+      },
+      "percentage": {
+        "C": 1.0
+      },
+      "intent_voto_respuesta_by_nse": {
+        "Candidato A": {
+          "C": 7
+        },
+        "Candidato B": {
+          "C": 6
+        },
+        "Candidato C": {
+          "C": 10
+        },
+        "No votaría": {
+          "C": 17
+        },
+        "Voto en blanco": {
+          "C": 10
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_nse": {
+        "3": {
+          "C": 14
+        },
+        "4": {
+          "C": 11
+        },
+        "5": {
+          "C": 11
+        },
+        "6": {
+          "C": 8
+        },
+        "7": {
+          "C": 6
+        }
+      },
+      "principal_problema_respuesta_by_nse": {
+        "Educación": {
+          "C": 28
+        },
+        "Salud": {
+          "C": 22
+        }
+      }
+    },
+    "by_region": {
+      "distribution": {
+        "Lima": 49,
+        "Sierra": 1
+      },
+      "percentage": {
+        "Lima": 0.98,
+        "Sierra": 0.02
+      },
+      "intent_voto_respuesta_by_region": {
+        "Candidato A": {
+          "Lima": 7,
+          "Sierra": 0
+        },
+        "Candidato B": {
+          "Lima": 6,
+          "Sierra": 0
+        },
+        "Candidato C": {
+          "Lima": 10,
+          "Sierra": 0
+        },
+        "No votaría": {
+          "Lima": 16,
+          "Sierra": 1
+        },
+        "Voto en blanco": {
+          "Lima": 10,
+          "Sierra": 0
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_region": {
+        "3": {
+          "Lima": 13,
+          "Sierra": 1
+        },
+        "4": {
+          "Lima": 11,
+          "Sierra": 0
+        },
+        "5": {
+          "Lima": 11,
+          "Sierra": 0
+        },
+        "6": {
+          "Lima": 8,
+          "Sierra": 0
+        },
+        "7": {
+          "Lima": 6,
+          "Sierra": 0
+        }
+      },
+      "principal_problema_respuesta_by_region": {
+        "Educación": {
+          "Lima": 28,
+          "Sierra": 0
+        },
+        "Salud": {
+          "Lima": 21,
+          "Sierra": 1
+        }
+      }
+    },
+    "by_age_group": {
+      "distribution": {
+        "18-29": 27,
+        "30-44": 22,
+        "45-59": 1,
+        "60+": 0
+      },
+      "percentage": {
+        "18-29": 0.54,
+        "30-44": 0.44,
+        "45-59": 0.02,
+        "60+": 0.0
+      },
+      "intent_voto_respuesta_by_grupo_edad": {
+        "Candidato A": {
+          "18-29": 5,
+          "30-44": 2,
+          "45-59": 0
+        },
+        "Candidato B": {
+          "18-29": 4,
+          "30-44": 2,
+          "45-59": 0
+        },
+        "Candidato C": {
+          "18-29": 5,
+          "30-44": 5,
+          "45-59": 0
+        },
+        "No votaría": {
+          "18-29": 7,
+          "30-44": 9,
+          "45-59": 1
+        },
+        "Voto en blanco": {
+          "18-29": 6,
+          "30-44": 4,
+          "45-59": 0
+        }
+      },
+      "aprobacion_gobierno_respuesta_by_grupo_edad": {
+        "3": {
+          "18-29": 13,
+          "30-44": 1,
+          "45-59": 0
+        },
+        "4": {
+          "18-29": 6,
+          "30-44": 4,
+          "45-59": 1
+        },
+        "5": {
+          "18-29": 2,
+          "30-44": 9,
+          "45-59": 0
+        },
+        "6": {
+          "18-29": 4,
+          "30-44": 4,
+          "45-59": 0
+        },
+        "7": {
+          "18-29": 2,
+          "30-44": 4,
+          "45-59": 0
+        }
+      },
+      "principal_problema_respuesta_by_grupo_edad": {
+        "Educación": {
+          "18-29": 18,
+          "30-44": 9,
+          "45-59": 1
+        },
+        "Salud": {
+          "18-29": 9,
+          "30-44": 13,
+          "45-59": 0
+        }
+      }
+    },
+    "cross_tabs": {
+      "nse_region": {
+        "Lima": {
+          "C": 49
+        },
+        "Sierra": {
+          "C": 1
+        }
+      },
+      "nse_edad": {
+        "18-29": {
+          "C": 27
+        },
+        "30-44": {
+          "C": 22
+        },
+        "45-59": {
+          "C": 1
+        }
+      }
+    }
+  },
+  "electoral_analysis": {
+    "intencion_voto": {
+      "total_distribution": {
+        "No votaría": 17,
+        "Candidato C": 10,
+        "Voto en blanco": 10,
+        "Candidato A": 7,
+        "Candidato B": 6
+      },
+      "by_nse": {
+        "Candidato A": {
+          "C": 7
+        },
+        "Candidato B": {
+          "C": 6
+        },
+        "Candidato C": {
+          "C": 10
+        },
+        "No votaría": {
+          "C": 17
+        },
+        "Voto en blanco": {
+          "C": 10
+        }
+      },
+      "by_region": {
+        "Candidato A": {
+          "Lima": 7,
+          "Sierra": 0
+        },
+        "Candidato B": {
+          "Lima": 6,
+          "Sierra": 0
+        },
+        "Candidato C": {
+          "Lima": 10,
+          "Sierra": 0
+        },
+        "No votaría": {
+          "Lima": 16,
+          "Sierra": 1
+        },
+        "Voto en blanco": {
+          "Lima": 10,
+          "Sierra": 0
+        }
+      }
+    },
+    "aprobacion_gobierno": {
+      "average_score": 4.62,
+      "median_score": 4.5,
+      "std_deviation": 1.36859826994257,
+      "distribution": {
+        "3": 14,
+        "4": 11,
+        "5": 11,
+        "6": 8,
+        "7": 6
+      },
+      "by_nse": {
+        "C": 4.62
+      }
+    },
+    "principales_problemas": {
+      "ranking": {
+        "Educación": 28,
+        "Salud": 22
+      },
+      "by_nse": {
+        "Educación": {
+          "C": 28
+        },
+        "Salud": {
+          "C": 22
+        }
+      },
+      "by_region": {
+        "Educación": {
+          "Lima": 28,
+          "Sierra": 0
+        },
+        "Salud": {
+          "Lima": 21,
+          "Sierra": 1
+        }
+      }
+    },
+    "confianza_institucional": {
+      "average_trust": 6.0,
+      "median_trust": 6.0,
+      "low_trust_percentage": 0.0,
+      "high_trust_percentage": 0.0
+    }
+  },
+  "statistical_tests": {
+    "voto_por_nse": {
+      "chi2_statistic": 0.0,
+      "p_value": 1.0,
+      "degrees_of_freedom": 0,
+      "cramers_v": NaN,
+      "significant": false,
+      "contingency_table": {
+        "C": {
+          "Candidato A": 7,
+          "Candidato B": 6,
+          "Candidato C": 10,
+          "No votaría": 17,
+          "Voto en blanco": 10
+        }
+      }
+    },
+    "correlations": {
+      "correlation_matrix": {
+        "id": {
+          "id": 1.0,
+          "edad": 0.40203428445158784,
+          "intent_voto_confianza": 0.09907622347784384,
+          "aprobacion_gobierno_respuesta": 0.05881882043194196,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "edad": {
+          "id": 0.40203428445158784,
+          "edad": 1.0,
+          "intent_voto_confianza": 0.16591194969484963,
+          "aprobacion_gobierno_respuesta": 0.3181902067850461,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "intent_voto_confianza": {
+          "id": 0.09907622347784384,
+          "edad": 0.16591194969484963,
+          "intent_voto_confianza": 1.0,
+          "aprobacion_gobierno_respuesta": -0.0018382517606104435,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "aprobacion_gobierno_respuesta": {
+          "id": 0.05881882043194196,
+          "edad": 0.3181902067850461,
+          "intent_voto_confianza": -0.0018382517606104435,
+          "aprobacion_gobierno_respuesta": 1.0,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "confianza_instituciones_respuesta": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "confianza_instituciones_respuesta": NaN
+        }
+      },
+      "p_values": {
+        "id": {
+          "id": 0.0,
+          "edad": 0.003802303127585347,
+          "intent_voto_confianza": 0.49363276932312217,
+          "aprobacion_gobierno_respuesta": 0.6849308011582245,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "edad": {
+          "id": 0.003802303127585347,
+          "edad": 0.0,
+          "intent_voto_confianza": 0.24952505904169592,
+          "aprobacion_gobierno_respuesta": 0.024327462099228085,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "intent_voto_confianza": {
+          "id": 0.49363276932312217,
+          "edad": 0.24952505904169592,
+          "intent_voto_confianza": 0.0,
+          "aprobacion_gobierno_respuesta": 0.9898913622697203,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "aprobacion_gobierno_respuesta": {
+          "id": 0.6849308011582245,
+          "edad": 0.024327462099228085,
+          "intent_voto_confianza": 0.9898913622697203,
+          "aprobacion_gobierno_respuesta": 0.0,
+          "confianza_instituciones_respuesta": NaN
+        },
+        "confianza_instituciones_respuesta": {
+          "id": NaN,
+          "edad": NaN,
+          "intent_voto_confianza": NaN,
+          "aprobacion_gobierno_respuesta": NaN,
+          "confianza_instituciones_respuesta": 0.0
+        }
+      },
+      "significant_correlations": [
+        {
+          "variable1": "id",
+          "variable2": "edad",
+          "correlation": 0.40203428445158784,
+          "p_value": 0.003802303127585347,
+          "strength": "Débil"
+        },
+        {
+          "variable1": "edad",
+          "variable2": "aprobacion_gobierno_respuesta",
+          "correlation": 0.3181902067850461,
+          "p_value": 0.024327462099228085,
+          "strength": "Débil"
+        }
+      ]
+    },
+    "approval_by_nse": {
+      "error": "Se necesitan al menos 2 grupos",
+      "test": "anova"
+    }
+  },
+  "insights": [
+    "Se generaron 50 respuestas sintéticas representativas",
+    "NSE C representa el 100.0% de la muestra",
+    "'No votaría' lidera intención de voto con 17 menciones",
+    "'Educación' es el principal problema identificado",
+    "Confianza institucional promedio: 6.0/10"
+  ],
+  "visualizations": [
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/demografia_20250709_195750.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/intencion_voto_20250709_195750.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/principales_problemas_20250709_195750.png",
+    "/Users/A1064331/Desktop/pruebas/ai-dev-team/ai-dev-team/data/output/visualizations/puntuaciones_20250709_195750.png"
+  ]
+}

@@ -1,0 +1,6 @@
+
+        # Contexto de Prueba - Peru 2024
+        - Presidente: Dina Boluarte
+        - Situación: Crisis política y económica
+        - Principales preocupaciones: Inflación, seguridad, empleo
+        

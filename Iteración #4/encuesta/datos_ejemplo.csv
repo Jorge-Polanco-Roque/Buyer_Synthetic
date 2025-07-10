@@ -1,0 +1,11 @@
+id,nombre,edad,ciudad,nse,ocupacion,ingresos,educacion,estado_civil,hijos,region
+1,Ana García,28,Lima,B,Profesional,4500,Superior completa,Soltera,0,Costa
+2,Carlos Mendoza,45,Arequipa,C,Comerciante,2200,Secundaria completa,Casado,2,Sierra
+3,María Quispe,35,Cusco,D,Empleada,1200,Técnica incompleta,Casada,3,Sierra
+4,José López,52,Trujillo,C,Obrero,1800,Secundaria completa,Casado,2,Costa
+5,Sandra Vega,31,Piura,B,Profesional,3800,Superior completa,Soltera,1,Costa
+6,Miguel Torres,40,Iquitos,D,Comerciante,1100,Primaria completa,Casado,4,Selva
+7,Elena Rodríguez,26,Lima,A,Ejecutiva,8500,Superior completa,Soltera,0,Costa
+8,Roberto Chávez,38,Huancayo,C,Empleado,2100,Técnica completa,Casado,2,Sierra
+9,Patricia Flores,29,Chiclayo,B,Profesional,3200,Superior completa,Casada,1,Costa
+10,Fernando Díaz,55,Ayacucho,D,Agricultor,900,Primaria incompleta,Casado,5,Sierra

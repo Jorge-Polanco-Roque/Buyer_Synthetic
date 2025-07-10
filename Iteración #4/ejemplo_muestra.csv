@@ -1,0 +1,16 @@
+id,nombre,edad,genero,ciudad,region,nse,ocupacion,educacion,estado_civil,ingresos
+1,Carlos Mendoza,28,M,Lima,Lima,C,Ingeniero,Universitaria,Soltero,3500
+2,Ana García,35,F,Arequipa,Sierra,B,Médica,Universitaria,Casada,4500
+3,Luis Rodríguez,42,M,Trujillo,Costa,C,Comerciante,Secundaria,Casado,2800
+4,María Pérez,31,F,Cusco,Sierra,D,Profesora,Universitaria,Soltera,2200
+5,José Vargas,55,M,Iquitos,Selva,E,Agricultor,Primaria,Casado,1200
+6,Carmen Torres,29,F,Lima,Lima,A,Gerente,Postgrado,Soltera,6000
+7,Ricardo Silva,38,M,Huancayo,Sierra,C,Mecánico,Técnica,Casado,2500
+8,Elena Morales,26,F,Piura,Costa,B,Contadora,Universitaria,Soltera,3200
+9,Pedro Castillo,48,M,Tacna,Costa,D,Obrero,Secundaria,Casado,1800
+10,Rosa Huamán,33,F,Pucallpa,Selva,C,Enfermera,Técnica,Casada,2600
+11,Manuel Díaz,22,M,Lima,Lima,B,Estudiante,Universitaria,Soltero,1500
+12,Julia Quispe,60,F,Ayacucho,Sierra,E,Comerciante,Primaria,Viuda,900
+13,Alberto Ramos,31,M,Chiclayo,Costa,C,Taxista,Secundaria,Casado,2000
+14,Sofía Vega,27,F,Lima,Lima,A,Abogada,Universitaria,Soltera,5500
+15,Raúl Flores,45,M,Huánuco,Sierra,D,Carpintero,Técnica,Casado,2100

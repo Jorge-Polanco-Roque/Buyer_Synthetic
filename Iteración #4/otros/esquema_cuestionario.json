@@ -1,0 +1,215 @@
+{
+  "version": "1.0",
+  "fecha_creacion": "2024-07-10",
+  "descripcion": "Esquema de cuestionario para investigación de mercado y política",
+  "perfiles_demograficos": [
+    {
+      "id": 1,
+      "nombre": "Ana García",
+      "edad": 28,
+      "ciudad": "Lima",
+      "nse": "B",
+      "ocupacion": "Profesional",
+      "ingresos": "3000-5000",
+      "educacion": "Superior completa",
+      "estado_civil": "Soltera",
+      "hijos": 0,
+      "region": "Costa",
+      "preferencias_politicas": "Centro",
+      "medios_informacion": ["Redes sociales", "Televisión", "Prensa digital"]
+    },
+    {
+      "id": 2,
+      "nombre": "Carlos Mendoza",
+      "edad": 45,
+      "ciudad": "Arequipa",
+      "nse": "C",
+      "ocupacion": "Comerciante",
+      "ingresos": "1500-3000",
+      "educacion": "Secundaria completa",
+      "estado_civil": "Casado",
+      "hijos": 2,
+      "region": "Sierra",
+      "preferencias_politicas": "Conservador",
+      "medios_informacion": ["Televisión", "Radio", "Periódicos"]
+    },
+    {
+      "id": 3,
+      "nombre": "María Quispe",
+      "edad": 35,
+      "ciudad": "Cusco",
+      "nse": "D",
+      "ocupacion": "Empleada",
+      "ingresos": "1000-1500",
+      "educacion": "Técnica incompleta",
+      "estado_civil": "Casada",
+      "hijos": 3,
+      "region": "Sierra",
+      "preferencias_politicas": "Progresista",
+      "medios_informacion": ["Radio", "Televisión", "Redes sociales"]
+    }
+  ],
+  "bloques_cuestionario": [
+    {
+      "id": "A",
+      "nombre": "Contexto y Economía Personal",
+      "descripcion": "Situación económica personal y perspectivas",
+      "preguntas": [
+        {
+          "id": "A1",
+          "pregunta": "¿Cómo calificarías tu situación económica actual?",
+          "tipo": "escala",
+          "escala": "1-10",
+          "obligatoria": true
+        },
+        {
+          "id": "A2",
+          "pregunta": "¿Cuál es tu principal preocupación económica en este momento?",
+          "tipo": "abierta",
+          "obligatoria": true
+        },
+        {
+          "id": "A3",
+          "pregunta": "¿Cómo ves tu situación económica en los próximos 6 meses?",
+          "tipo": "multiple",
+          "opciones": ["Mejor", "Igual", "Peor", "No estoy seguro/a"],
+          "obligatoria": true
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "nombre": "Consumo y Decisión de Compra",
+      "descripcion": "Comportamiento de consumo y factores de decisión",
+      "preguntas": [
+        {
+          "id": "B1",
+          "pregunta": "¿Qué factor es más importante para ti al comprar un producto costoso?",
+          "tipo": "multiple",
+          "opciones": ["Precio", "Calidad", "Marca", "Recomendaciones", "Garantía"],
+          "obligatoria": true
+        },
+        {
+          "id": "B2",
+          "pregunta": "¿Con qué frecuencia comparas precios antes de comprar?",
+          "tipo": "multiple",
+          "opciones": ["Siempre", "Casi siempre", "A veces", "Rara vez", "Nunca"],
+          "obligatoria": true
+        },
+        {
+          "id": "B3",
+          "pregunta": "¿Cuál es tu canal de compra preferido?",
+          "tipo": "multiple",
+          "opciones": ["Tienda física", "Online", "Catálogo", "Redes sociales", "Otro"],
+          "obligatoria": false
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "nombre": "Percepción del País y Política",
+      "descripcion": "Opiniones sobre la situación política y del país",
+      "preguntas": [
+        {
+          "id": "C1",
+          "pregunta": "¿Cómo calificarías la situación actual del país?",
+          "tipo": "escala",
+          "escala": "1-10",
+          "obligatoria": true
+        },
+        {
+          "id": "C2",
+          "pregunta": "¿Cuál es el principal problema del país en este momento?",
+          "tipo": "abierta",
+          "obligatoria": true
+        },
+        {
+          "id": "C3",
+          "pregunta": "¿Qué tan confiado estás en las instituciones políticas?",
+          "tipo": "escala",
+          "escala": "1-10",
+          "obligatoria": true
+        },
+        {
+          "id": "C4",
+          "pregunta": "¿Cómo te informas sobre política?",
+          "tipo": "multiple",
+          "opciones": ["Televisión", "Radio", "Prensa escrita", "Redes sociales", "Conversaciones", "No me informo"],
+          "multiple_selection": true,
+          "obligatoria": false
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "nombre": "Identidad y Valores",
+      "descripcion": "Sentido de identidad y valores personales",
+      "preguntas": [
+        {
+          "id": "D1",
+          "pregunta": "¿Qué tan orgulloso te sientes de ser peruano?",
+          "tipo": "escala",
+          "escala": "1-10",
+          "obligatoria": true
+        },
+        {
+          "id": "D2",
+          "pregunta": "¿Qué es lo que más valoras de la cultura peruana?",
+          "tipo": "abierta",
+          "obligatoria": false
+        },
+        {
+          "id": "D3",
+          "pregunta": "¿Cuál consideras que es el mayor logro del Perú?",
+          "tipo": "multiple",
+          "opciones": ["Gastronomía", "Historia", "Diversidad cultural", "Recursos naturales", "Deporte", "Otro"],
+          "obligatoria": false
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "nombre": "Medios de Información y Tecnología",
+      "descripcion": "Hábitos de consumo de información y tecnología",
+      "preguntas": [
+        {
+          "id": "E1",
+          "pregunta": "¿Cuántas horas al día dedicas a redes sociales?",
+          "tipo": "multiple",
+          "opciones": ["Menos de 1 hora", "1-2 horas", "2-4 horas", "4-6 horas", "Más de 6 horas"],
+          "obligatoria": false
+        },
+        {
+          "id": "E2",
+          "pregunta": "¿Qué red social usas más?",
+          "tipo": "multiple",
+          "opciones": ["Facebook", "Instagram", "TikTok", "Twitter", "YouTube", "WhatsApp", "Ninguna"],
+          "obligatoria": false
+        },
+        {
+          "id": "E3",
+          "pregunta": "¿Confías en la información que recibes por redes sociales?",
+          "tipo": "escala",
+          "escala": "1-10",
+          "obligatoria": false
+        }
+      ]
+    }
+  ],
+  "configuracion_procesamiento": {
+    "modelo_llm": "gpt-4",
+    "temperatura": 0.7,
+    "max_tokens": 2000,
+    "reintentos_max": 3,
+    "validacion_json": true,
+    "contexto_cultural": "peru_2024",
+    "generar_confianza": true,
+    "incluir_razonamiento": true
+  },
+  "metricas_calidad": {
+    "coherencia_minima": 0.7,
+    "confianza_minima": 0.6,
+    "completitud_minima": 0.8,
+    "tiempo_max_respuesta": 30
+  }
+}

@@ -1,0 +1,11 @@
+id,nombre,edad,genero,ciudad,region,nse,ocupacion,ingresos,educacion,estado_civil,hijos,created_at
+4,Sandra Sánchez,32,F,Lima,Lima,C,Comerciante,"S/ 2,000 - S/ 4,000",Técnica completa,Casado,0,2025-07-09T19:47:06.600604
+5,Lucía Sánchez,34,F,Lima,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,2,2025-07-09T19:47:06.600690
+8,Carlos Sánchez,27,M,Callao,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Técnica incompleta,Casado,2,2025-07-09T19:47:06.600947
+10,Fernando Flores,29,M,Lima,Lima,E,Trabajo Doméstico,"Menos de S/ 1,000",Sin educación formal,Casado,0,2025-07-09T19:47:06.601116
+3,Lucía García,32,F,Lima,Lima,C,Técnico,"S/ 2,000 - S/ 4,000",Secundaria completa,Casado,0,2025-07-09T19:47:06.600516
+6,Patricia Torres,32,F,Callao,Lima,C,Obrero Calificado,"S/ 2,000 - S/ 4,000",Secundaria completa,Soltero,0,2025-07-09T19:47:06.600776
+9,Pedro González,34,M,Lima,Lima,E,Desempleado,"Menos de S/ 1,000",Secundaria incompleta,Soltero,1,2025-07-09T19:47:06.601033
+2,Ana Flores,31,F,Lima,Lima,B,Empleado Calificado,"S/ 4,000 - S/ 10,000",Superior incompleta,Conviviente,0,2025-07-09T19:47:06.600421
+7,Carmen Torres,26,F,Lima,Lima,D,Empleado Básico,"S/ 1,000 - S/ 2,000",Secundaria incompleta,Soltero,1,2025-07-09T19:47:06.600863
+1,Teresa González,25,F,Callao,Lima,A,Director,"S/ 10,000+",Postgrado,Conviviente,1,2025-07-09T19:47:06.600305
