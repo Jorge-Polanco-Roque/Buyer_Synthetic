@@ -1,63 +1,42 @@
-# Buyer Synthetic™ — Investigación sin campo, con IA
+# Buyer Synthetic — AI Agents as Synthetic Survey Respondents
 
-**Buyer Synthetic™** es una solución revolucionaria de IMA.GO que reemplaza el trabajo de campo tradicional por agentes de inteligencia artificial entrenados con datos reales. Con esta herramienta, obtienes respuestas realistas, consistentes y coherentes sin tener que invertir semanas y miles de soles en encuestas presenciales.
+An experimental framework that replaces (or augments) traditional survey fieldwork
+with **AI agents that act as synthetic respondents**. Given a target audience and a
+questionnaire, the system generates synthetic personas grounded in real data and has
+them answer as if they were real people, producing consistent, structured results in
+a fraction of the time and cost of in-person surveys.
 
----
+## Objective
 
-## 🚀 ¿Qué es Buyer Synthetic?
+Explore how far LLM-driven agents can reproduce the responses of a defined population
+to a questionnaire, and whether synthetic panels can stand in for costly field studies
+for early validation, market exploration, and scenario testing.
 
-Un sistema de **consumidores sintéticos** impulsado por IA que simula perfiles de compra o decisión y responde cuestionarios como si fueran personas reales. Ideal para validar ideas, explorar mercados y tomar decisiones sin necesidad de encuestar físicamente.
+## Approach
 
----
+- **Persona grounding** — synthetic profiles are built from real survey data and
+  contextual sources (demographics, segments, and, in the included case study, the
+  political context of Peru's 2025–2026 electoral cycle).
+- **Agentic response flow** — a LangGraph-based pipeline (`agentes/flujo.py`) orchestrates
+  persona construction, questionnaire application, and answer generation.
+- **Structured output** — questionnaires are converted to JSON, answers are collected
+  per persona, and results are exported as CSV panels with an auditing layer.
 
-## 🧠 ¿Cómo funciona?
+## What's inside
 
-1. **Define tu público objetivo:** Edad, NSE, ciudad, canal de compra, intereses, etc.
-2. **Carga tus preguntas:** Abiertas, cerradas, escalas, *top of mind*, o elige entre plantillas prediseñadas.
-3. **La IA simula:** Se crean perfiles sintéticos y se les aplica el cuestionario, replicando comportamientos reales.
-4. **Recibe resultados en 48h:** Obtén dashboards dinámicos e informes ejecutivos, como si hubieras hecho campo.
+The repo is organized as successive iterations:
 
----
+- **`Iteración #1/`** — first prototype: synthetic base, persona profiles, political
+  context, prompts, and exploratory notebooks (`test_310525.ipynb`, `test_perú_01.ipynb`).
+- **`Iteración #2/`** and **`#3/`** — refactored, modular version:
+  - `agentes/` — the agentic flow and panel logic.
+  - `funciones/` — helper functions (LLM calls, context loading, CSV filling, math).
+  - `prompts/` — questionnaire-to-JSON and scenario prompts.
+  - `viz/` + `output/` — flow visualization and result CSVs.
 
-## ✅ ¿Por qué usar Buyer Synthetic?
+## Stack
 
-- **100% más conveniente** que un estudio tradicional  
-- **Respuestas en 48 horas**  
-- **Sin trabajo de campo**  
-- **Alta coherencia estadística y comportamental**  
-- **Simulación basada en estudios reales y patrones locales**
+Python · LLM APIs · LangGraph · pandas.
 
----
-
-## 💼 Casos de uso
-
-- Validación de conceptos de producto  
-- Exploración de canales de venta  
-- Pruebas de mensajes publicitarios  
-- Decisiones de pricing y packaging  
-- Estudios exploratorios de segmentos
-
----
-
-## 🧪 En piloto: ¡Participa!
-
-Estamos armando los primeros pilotos comerciales. Sé parte del grupo que validará su próxima decisión con IA. Escríbenos a:  
-📧 **masqueinvestigacion@ima-go.pe**  
-🌐 [www.ima-go.pe](http://www.ima-go.pe)
-
----
-
-## 📌 Importante
-
-> Los resultados provienen de **IA entrenada con data real**, no de encuestas a personas en esta etapa. Sin embargo, los escenarios simulados reproducen comportamientos con alta fidelidad y coherencia.
-
----
-
-## 🛠️ Próximos pasos técnicos
-
-1. ☁️ Subir toda la solución a un **contenedor en AWS**, separando el contexto en **buckets de S3**.  
-2. 🛠️ Evaluar e implementar **AWS CDK (Cloud Development Kit)** para infraestructura como código del despliegue completo.
-
----
-
-© IMA.GO — IMA Opinión y Mercado S.A.C. Todos los derechos reservados.
+> Note: developed as an applied R&D project. "Buyer Synthetic" is a product concept
+> by IMA.GO; this repository holds the research and engineering iterations behind it.
